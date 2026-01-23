@@ -7,6 +7,7 @@ As an EU regulation, it will apply directly in all member states without the nee
 
 ### What is this regulation about?
 The main objectives of the AI Act are to:
+
 - ensure the safety of people and the protection of fundamental rights,
 - increase trust in AI,
 - without stifling innovation.
