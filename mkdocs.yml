@@ -44,3 +44,6 @@ nav:
   - Machine Learning:
     - Red Teaming: machine_learning/red_teaming.md
     - Blue Teaming: machine_learning/blue_teaming.md
+  - Natural Language Processing:
+    - Red Teaming: natural_language_processing/red_teaming.md
+    - Blue Teaming: natural_language_processing/blue_teaming.md

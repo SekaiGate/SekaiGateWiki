@@ -1,0 +1,3 @@
+https://github.com/QData/TextAttack 
+https://github.com/thunlp/OpenAttack
+https://github.com/jind11/TextFooler
