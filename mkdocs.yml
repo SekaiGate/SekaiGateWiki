@@ -34,6 +34,7 @@ plugins:
           nav_translations:
             Home: Strona główna
             Certificates: Certyfikaty
+            Regulations: Regulacje
 
 nav:
   - Home: index.md
@@ -47,3 +48,6 @@ nav:
   - Natural Language Processing:
     - Red Teaming: natural_language_processing/red_teaming.md
     - Blue Teaming: natural_language_processing/blue_teaming.md
+  - Regulations:
+    - EU AI Act: regulations/eu_ai_act.md
+    - ISO: regulations/iso.md
