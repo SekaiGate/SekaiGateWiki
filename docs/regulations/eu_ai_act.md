@@ -17,37 +17,39 @@ The regulation governs how AI systems can be designed, deployed, and used within
 The AI Act divides AI systems into categories depending on the level of risk they pose:
 
 1. Unacceptable risk 🚫 (total ban on use):
-- Systems that violate human rights, e.g.:
-- real-time mass biometric surveillance,
-    - systems that manipulate human behavior (e.g., exploiting the vulnerability of children), so-called social scoring of citizens.
+    - Systems that violate human rights, e.g.:
+        - real-time mass biometric surveillance,
+        - systems that manipulate human behavior (e.g., exploiting the vulnerability of children), so-called social scoring of citizens.
 
 2. High risk 🔴 :
-- Systems used in sensitive areas, e.g.:
-  recruitment and HR,
-  - education (exams, grades),
-  - banking and creditworthiness,
-  - healthcare,
-  - justice.
+    - Systems used in sensitive areas, e.g.:
+        - recruitment and HR,
+        - education (exams, grades),
+        - banking and creditworthiness,
+        - healthcare,
+        - justice.
 
-- 👉 Permitted, but under very strict requirements, including:
-    - risk assessment,
-    - high-quality data,
-    - documentation,
-    - human oversight,
-    - cybersecurity.
+    - 👉 Permitted, but under very strict requirements, including:
+        - risk assessment,
+        - high-quality data,
+        - documentation,
+        - human oversight,
+        - cybersecurity.
 
 3. Limited risk 🟡 :
-- chatbots,
-- content generation systems (text, image, deepfake).
+    - Communication systems and content generation:
+        - chatbots,
+        - content generation systems (text, image, deepfake).
 
-- 👉 Transparency obligation — the user must know that they are dealing with AI.
+    - 👉 Transparency obligation — the user must know that they are dealing with AI.
 
 4. Minimal risk 🟢 :
-- AI in games,
-    - spam filters,
-- music or movie recommendations.
+    - Supporting systems:
+        - AI in games,
+        - spam filters,
+        - music or movie recommendations.
 
-- 👉 No new obligations — complete freedom.
+    - 👉 No new obligations — complete freedom.
 
 ## Who does the AI Act apply to?
 - Companies from the EU and outside the EU if their AI is used in the Union,
