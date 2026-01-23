@@ -1,0 +1,3 @@
+https://github.com/sigstore/model-transparency
+https://github.com/EthicalML/sml-security/
+https://github.com/EthicalML/fml-security

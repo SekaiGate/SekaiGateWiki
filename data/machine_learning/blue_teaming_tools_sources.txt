@@ -1,0 +1,2 @@
+https://github.com/protectai/modelscan
+https://github.com/bosch-aisecurity-aishield/watchtower

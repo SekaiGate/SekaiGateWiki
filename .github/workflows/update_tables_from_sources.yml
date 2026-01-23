@@ -1,0 +1,160 @@
+name: Update tables from sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - 'data/**/*.txt'
+      - 'docs/**/*.md'
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Process docs and update tables
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          ################################################
+          # GENERATE TABLE FROM SOURCE FILE
+          ################################################
+          generate_table() {
+            local source_file=$1
+            local output_file=$2
+
+            echo "Generating table from: $source_file"
+
+            if [[ ! -f "$source_file" ]]; then
+              echo "Source file not found: $source_file"
+              return 1
+            fi
+
+            REPOS=$(grep -v '^\s*#' "$source_file" | grep -v '^\s*$' | paste -sd ' ' -)
+            if [[ -z "$REPOS" ]]; then
+              echo "No repos in $source_file"
+              return 1
+            fi
+
+            tmp=$(mktemp)
+
+            for repo in $REPOS; do
+              echo " Processing $repo"
+              OWNER=$(basename $(dirname "$repo"))
+              NAME=$(basename "$repo" .git)
+
+              REPO_DATA=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME")
+              if echo "$REPO_DATA" | jq -e '.id' > /dev/null 2>&1; then
+                STARS=$(echo "$REPO_DATA" | jq -r '.stargazers_count')
+                WATCHERS=$(echo "$REPO_DATA" | jq -r '.subscribers_count')
+                DESC=$(echo "$REPO_DATA" | jq -r '.description // "No description"' | sed 's/|/\\|/g')
+                DATE=$(curl -s -H "Authorization: token $TOKEN" \
+                      "https://api.github.com/repos/$OWNER/$NAME/commits?per_page=1" \
+                      | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
+                LINK="${repo%.git}"
+                echo "$DATE|$NAME|$STARS|$WATCHERS|$DESC|$LINK" >> "$tmp"
+              else
+                echo "N/A|$NAME|0|0|No description|${repo%.git}" >> "$tmp"
+              fi
+              sleep 1
+            done
+
+            echo "| Date | Repo | Description | Stars | Watchers | Link |" > "$output_file"
+            echo "|------|------|-------------|-------|----------|------|" >> "$output_file"
+            sort -r "$tmp" | while IFS='|' read -r d n s w desc link; do
+              echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | [$n]($link) |" >> "$output_file"
+            done
+            rm "$tmp"
+          }
+
+          ################################################
+          # BUILD TAG → SOURCE FILE MAP
+          ################################################
+          declare -A SOURCE_MAP
+
+          echo "Building source map…"
+          while IFS= read -r -d '' file; do
+            file_rel=${file#data/}
+            fname=$(basename "$file_rel")
+            # Transform path into uppercase tag format:
+            # data/x/y_z_sources.txt → DATA_X_Y_Z_SOURCES
+            tag="DATA_$(echo "$file_rel" \
+                  | tr '/' '_' \
+                  | tr '[:lower:]' '[:upper:]' \
+                  | sed 's/\.TXT$//')"
+            SOURCE_MAP["$tag"]="$file"
+            echo "  → $tag → $file"
+          done < <(find data -type f -name "*_sources.txt" -print0)
+
+          ################################################
+          # SCAN DOCS AND UPDATE
+          ################################################
+          find docs -type f -name "*.md" | while read -r doc; do
+            echo ""
+            echo "Scanning $doc…"
+            tags=$(grep -oE "<!--[[:space:]]*BEGIN_[A-Za-z0-9_]+[[:space:]]*-->" "$doc" \
+                   | sed -E 's/<!--[[:space:]]*BEGIN_([A-Za-z0-9_]+)[[:space:]]*-->/\1/' \
+                   | sort -u)
+
+            if [[ -z "$tags" ]]; then
+              echo "  No tags"
+              continue
+            fi
+
+            for tag in $tags; do
+              echo " Found tag: $tag"
+              src=${SOURCE_MAP[$tag]}
+
+              if [[ -z "$src" ]]; then
+                echo "  ⚠️ No source file mapped for $tag"
+                continue
+              fi
+
+              echo "  Using source: $src"
+              tmpfile=$(mktemp)
+              generate_table "$src" "$tmpfile"
+              table_escaped=$(sed 's/"/\\"/g' "$tmpfile")
+
+              awk -v TAG="$tag" -v TABLE="$table_escaped" '
+                BEGIN { inblock=0 }
+                {
+                  if ($0 ~ "<!--[[:space:]]*BEGIN_"TAG"[[:space:]]*-->") {
+                    print; print TABLE; inblock=1; next
+                  }
+                  if ($0 ~ "<!--[[:space:]]*END_"TAG"[[:space:]]*-->") {
+                    inblock=0; print; next
+                  }
+                  if (!inblock) print
+                }
+              ' "$doc" > "$doc.tmp"
+
+              mv "$doc.tmp" "$doc"
+              rm "$tmpfile"
+              echo "  Updated $tag"
+            done
+          done
+
+      - name: Commit and push
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/**/*.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto-update tables — $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push https://$TOKEN@github.com/${{ github.repository }} HEAD:refs/heads/main
+          fi

@@ -1,0 +1,11 @@
+https://github.com/elder-plinius/CL4R1T4S.git
+https://github.com/elder-plinius/L1B3RT4S.git
+https://github.com/liu00222/Open-Prompt-Injection.git
+https://github.com/Koinsec/Prompt-injection-payloads.git
+https://github.com/protectai/ai-exploits.git
+https://github.com/TakSec/Prompt-Injection-Everywhere.git
+https://github.com/Zierax/Basic-ML-prompt-injections.git
+https://github.com/friuns2/BlackFriday-GPTs-Prompts.git
+https://github.com/0xk1h0/ChatGPT_DAN.git
+https://github.com/sherdencooper/prompt-injection.git
+https://github.com/mik0w/pallms.git

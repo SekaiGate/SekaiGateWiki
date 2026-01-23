@@ -1,0 +1,3 @@
+https://github.com/privacytrustlab/ml_privacy_meter
+https://github.com/tensorflow/privacy
+https://github.com/tf-encrypted/tf-encrypted
