@@ -21,7 +21,7 @@ Repositories with payloads to be used during pentests:
 | 2024-10-23 | ai-exploits | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | ⭐ 1688 | 👁️ 39 | [ai-exploits](https://github.com/protectai/ai-exploits) |
 | 2024-08-02 | Prompt-Injection-Everywhere | Prompt Injections Everywhere | ⭐ 176 | 👁️ 3 | [Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere) |
 | 2024-04-15 | Basic-ML-prompt-injections | llm attacks basic payloads | ⭐ 9 | 👁️ 1 | [Basic-ML-prompt-injections](https://github.com/Zierax/Basic-ML-prompt-injections) |
-| 2024-04-01 | ChatGPT_DAN | ChatGPT DAN, Jailbreaks prompt | ⭐ 11170 | 👁️ 267 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) |
+| 2024-04-01 | ChatGPT_DAN | ChatGPT DAN, Jailbreaks prompt | ⭐ 11171 | 👁️ 267 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) |
 | 2023-11-22 | prompt-injection | Official repo for Customized but Compromised: Assessing Prompt Injection Risks in User-Designed GPTs | ⭐ 30 | 👁️ 3 | [prompt-injection](https://github.com/sherdencooper/prompt-injection) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_RED_TEAMING_PAYLOADS_SOURCES -->
 
