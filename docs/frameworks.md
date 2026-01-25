@@ -42,7 +42,7 @@ A detailed control objectives framework defining 243 AI security and governance 
 
 ## Google’s Secure AI Framework (SAIF)
 
-Source: (https://safety.google/intl/en_in/safety/saif/)[https://safety.google/intl/en_in/safety/saif/]
+Source: [https://safety.google/intl/en_in/safety/saif/](https://safety.google/intl/en_in/safety/saif/)
 
 A strategic security framework addressing AI risks such as model compromise, data poisoning, and privacy issues by integrating security principles into AI design, development, and deployment stages.
 
@@ -59,7 +59,7 @@ A strategic security framework addressing AI risks such as model compromise, dat
 
 ## MIT AI Risk Repository
 
-Source: (https://airisk.mit.edu)[https://airisk.mit.edu]
+Source: [https://airisk.mit.edu](https://airisk.mit.edu)
 
 A curated repository of documented AI risks, failure modes, and mitigation patterns to support research and risk assessment practices. (General resource for AI risk knowledge.)
 
@@ -75,7 +75,7 @@ A curated repository of documented AI risks, failure modes, and mitigation patte
 
 ## IBM AI Risk Atlas
 
-Source: (https://ibm.github.io/ai-atlas-nexus/)[https://ibm.github.io/ai-atlas-nexus/]
+Source: [https://ibm.github.io/ai-atlas-nexus/](https://ibm.github.io/ai-atlas-nexus/)
 
 A structured taxonomy and knowledge base of AI risks, helping organizations identify, classify, and plan mitigations throughout the AI lifecycle.
 
@@ -91,7 +91,7 @@ A structured taxonomy and knowledge base of AI risks, helping organizations iden
 
 ## MITRE ATLAS
 
-Source: (https://atlas.mitre.org/matrices/ATLAS)[https://atlas.mitre.org/matrices/ATLAS]
+Source: [https://atlas.mitre.org/matrices/ATLAS](https://atlas.mitre.org/matrices/ATLAS)
 
 An adversarial knowledge base cataloguing real-world tactics, techniques, and procedures used to attack AI systems, designed to support red-teaming, threat modeling, and defense testing.
 
@@ -107,7 +107,7 @@ An adversarial knowledge base cataloguing real-world tactics, techniques, and pr
 
 ## OWASP Top 10 for LLM Applications
 
-Source: (https://owasp.org/www-project-top-10-for-large-language-model-applications/)[https://owasp.org/www-project-top-10-for-large-language-model-applications/]
+Source: [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 A community-driven list of the most prevalent security vulnerabilities in LLM applications (e.g., prompt injection, sensitive information disclosure) with guidance for mitigation.
 
@@ -123,7 +123,7 @@ A community-driven list of the most prevalent security vulnerabilities in LLM ap
 
 ## SAIL Framework
 
-Source: (https://www.pillar.security/sail)[https://www.pillar.security/sail]
+Source: [https://www.pillar.security/sail](https://www.pillar.security/sail)
 
 A security-assurance framework addressing lifecycle security controls and governance for AI deployments.
 
@@ -138,7 +138,7 @@ A security-assurance framework addressing lifecycle security controls and govern
 
 ## CAI (Cyber-AI) Framework
 
-Source: (https://github.com/aliasrobotics/cai)[https://github.com/aliasrobotics/cai]
+Source: [https://github.com/aliasrobotics/cai](https://github.com/aliasrobotics/cai)
 
 A cybersecurity-oriented framework focused on AI threats, threats vectors, and mitigations—especially for robotics and autonomous systems.
 
