@@ -21,7 +21,7 @@ Repositories with payloads to be used during pentests:
 | 2024-10-23 | ai-exploits | A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities  | ⭐ 1688 | 👁️ 39 | [ai-exploits](https://github.com/protectai/ai-exploits) |
 | 2024-08-02 | Prompt-Injection-Everywhere | Prompt Injections Everywhere | ⭐ 176 | 👁️ 3 | [Prompt-Injection-Everywhere](https://github.com/TakSec/Prompt-Injection-Everywhere) |
 | 2024-04-15 | Basic-ML-prompt-injections | llm attacks basic payloads | ⭐ 9 | 👁️ 1 | [Basic-ML-prompt-injections](https://github.com/Zierax/Basic-ML-prompt-injections) |
-| 2024-04-01 | ChatGPT_DAN | ChatGPT DAN, Jailbreaks prompt | ⭐ 11195 | 👁️ 271 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) |
+| 2024-04-01 | ChatGPT_DAN | ChatGPT DAN, Jailbreaks prompt | ⭐ 11194 | 👁️ 271 | [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) |
 | 2023-11-22 | prompt-injection | Official repo for Customized but Compromised: Assessing Prompt Injection Risks in User-Designed GPTs | ⭐ 30 | 👁️ 3 | [prompt-injection](https://github.com/sherdencooper/prompt-injection) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_RED_TEAMING_PAYLOADS_SOURCES -->
 
@@ -41,7 +41,7 @@ Essential tools for red teaming LLMs:
 |------|------|-------------|-------|----------|------|
 | 2026-01-23 | garak | the LLM vulnerability scanner | ⭐ 6825 | 👁️ 48 | [garak](https://github.com/NVIDIA/garak) |
 | 2026-01-23 | PyRIT | The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems. | ⭐ 3345 | 👁️ 40 | [PyRIT](https://github.com/Azure/PyRIT) |
-| 2026-01-19 | spikee | No description | ⭐ 134 | 👁️ 8 | [spikee](https://github.com/ReversecLabs/spikee) |
+| 2026-01-19 | spikee | No description | ⭐ 135 | 👁️ 8 | [spikee](https://github.com/ReversecLabs/spikee) |
 | 2026-01-05 | LLMart | LLM Adversarial Robustness Toolkit, a toolkit for evaluating LLM robustness through adversarial testing. | ⭐ 44 | 👁️ 1 | [LLMart](https://github.com/IntelLabs/LLMart) |
 | 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11215 | 👁️ 221 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
 | 2025-12-24 | agentic_security | Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪 | ⭐ 1749 | 👁️ 18 | [agentic_security](https://github.com/msoedov/agentic_security) |
