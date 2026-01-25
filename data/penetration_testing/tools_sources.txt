@@ -1,5 +1,5 @@
 https://github.com/GH05TCREW/pentestagent
-https://github.com/usestrix/strixś
+https://github.com/usestrix/strix
 https://github.com/haroonawanofficial/AISA-Scanner
 https://github.com/crond-jaist/AutoPentest-DRL
 https://github.com/gyoisamurai/GyoiThon
