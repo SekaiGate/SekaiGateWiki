@@ -37,7 +37,7 @@ plugins:
             Regulations: Regulacje
             Penetration Testing: Testy penetracyjne
             Tools: Narzędzia
-
+            Frameworks: Frameworki
 nav:
   - Home: index.md
   - Certificates: certificates.md
@@ -55,3 +55,4 @@ nav:
     - ISO: regulations/iso.md
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
+  - Frameworks: frameworks.md
