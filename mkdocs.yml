@@ -38,6 +38,7 @@ plugins:
             Penetration Testing: Testy penetracyjne
             Tools: Narzędzia
             Frameworks: Frameworki
+            Organizations: Organizacje
 nav:
   - Home: index.md
   - Certificates: certificates.md
@@ -56,3 +57,4 @@ nav:
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
   - Frameworks: frameworks.md
+  - Organizations: organizations.md
