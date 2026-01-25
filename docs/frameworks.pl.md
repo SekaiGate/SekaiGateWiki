@@ -24,7 +24,7 @@ Dobrowolne, ogólne ramy mające na celu pomoc organizacjom w systematycznej ide
 
 ## AI Controls Matrix (AICM)
 
-Link: [https://cloudsecurityalliance.org/artifacts/ai-controls-matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)
+Źródło: [https://cloudsecurityalliance.org/artifacts/ai-controls-matrix](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)
 
 Szczegółowe ramy celów kontroli definiujące 243 kontrole bezpieczeństwa i zarządzania AI w 18 domenach, odnoszące się do norm takich jak ISO 42001, ISO 27001 i NIST AI RMF w celu wspierania bezpiecznego i odpowiedzialnego wdrażania AI.
 
@@ -42,7 +42,7 @@ Szczegółowe ramy celów kontroli definiujące 243 kontrole bezpieczeństwa i z
 
 ## Google’s Secure AI Framework (SAIF)
 
-Źródło: (https://safety.google/intl/en_in/safety/saif/)[https://safety.google/intl/en_in/safety/saif/]
+Źródło: [https://safety.google/intl/en_in/safety/saif/](https://safety.google/intl/en_in/safety/saif/)
 
 Strategiczna struktura bezpieczeństwa zajmująca się ryzykiem związanym ze sztuczną inteligencją, takim jak naruszenie modelu, zatrucie danych i kwestie prywatności, poprzez integrację zasad bezpieczeństwa na etapach projektowania, rozwoju i wdrażania sztucznej inteligencji.
 
@@ -59,7 +59,7 @@ Strategiczna struktura bezpieczeństwa zajmująca się ryzykiem związanym ze sz
 
 ## MIT AI Risk Repository
 
-Źródło: (https://airisk.mit.edu)[https://airisk.mit.edu]
+Źródło: [https://airisk.mit.edu](https://airisk.mit.edu)
 
 Wyselekcjonowane repozytorium udokumentowanych zagrożeń związanych ze sztuczną inteligencją, trybów awarii i wzorców łagodzenia ryzyka, wspierające badania i praktyki oceny ryzyka. (Ogólne źródło wiedzy na temat ryzyka związanego ze sztuczną inteligencją).
 
@@ -75,7 +75,7 @@ Wyselekcjonowane repozytorium udokumentowanych zagrożeń związanych ze sztuczn
 
 ## IBM AI Risk Atlas
 
-Źródło: (https://ibm.github.io/ai-atlas-nexus/)[https://ibm.github.io/ai-atlas-nexus/]
+Źródło: [https://ibm.github.io/ai-atlas-nexus/](https://ibm.github.io/ai-atlas-nexus/)
 
 Strukturalna taksonomia i baza wiedzy dotycząca ryzyka związanego ze sztuczną inteligencją, pomagająca organizacjom identyfikować, klasyfikować i planować działania łagodzące w całym cyklu życia sztucznej inteligencji.
 
@@ -91,7 +91,7 @@ Strukturalna taksonomia i baza wiedzy dotycząca ryzyka związanego ze sztuczną
 
 ## MITRE ATLAS
 
-Źródło: (https://atlas.mitre.org/matrices/ATLAS)[https://atlas.mitre.org/matrices/ATLAS]
+Źródło: [https://atlas.mitre.org/matrices/ATLAS](https://atlas.mitre.org/matrices/ATLAS)
 
 Baza wiedzy o działaniach przeciwników, zawierająca katalog rzeczywistych taktyk, technik i procedur stosowanych do ataków na systemy AI, zaprojektowana w celu wsparcia działań zespołów red team, modelowania zagrożeń i testowania zabezpieczeń.
 
@@ -107,7 +107,7 @@ Baza wiedzy o działaniach przeciwników, zawierająca katalog rzeczywistych tak
 
 ## OWASP Top 10 for LLM Applications
 
-Źródło: (https://owasp.org/www-project-top-10-for-large-language-model-applications/)[https://owasp.org/www-project-top-10-for-large-language-model-applications/]
+Źródło: [https://owasp.org/www-project-top-10-for-large-language-model-applications/](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 Opracowana przez społeczność lista najczęściej występujących luk w zabezpieczeniach aplikacji LLM (np. wstrzyknięcie polecenia, ujawnienie poufnych informacji) wraz z wytycznymi dotyczącymi ich ograniczania.
 
@@ -123,7 +123,7 @@ Opracowana przez społeczność lista najczęściej występujących luk w zabezp
 
 ## SAIL Framework
 
-Źródło: (https://www.pillar.security/sail)[https://www.pillar.security/sail]
+Źródło: [https://www.pillar.security/sail](https://www.pillar.security/sail)
 
 Ramy zapewnienia bezpieczeństwa dotyczące kontroli bezpieczeństwa w całym cyklu życia i zarządzania wdrożeniami sztucznej inteligencji.
 
@@ -138,7 +138,7 @@ Ramy zapewnienia bezpieczeństwa dotyczące kontroli bezpieczeństwa w całym cy
 
 ## CAI (Cyber-AI) Framework
 
-Źródło: (https://github.com/aliasrobotics/cai)[https://github.com/aliasrobotics/cai]
+Źródło: [https://github.com/aliasrobotics/cai](https://github.com/aliasrobotics/cai)
 
 Struktura zorientowana na cyberbezpieczeństwo, skupiająca się na zagrożeniach związanych ze sztuczną inteligencją, wektorach zagrożeń i środkach zaradczych — zwłaszcza w przypadku robotyki i systemów autonomicznych.
 
