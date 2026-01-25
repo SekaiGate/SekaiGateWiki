@@ -11,7 +11,7 @@ List of tools to support Web Penetration Testing activities:
 <!-- BEGIN_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| N/A | strixś | No description | ⭐ 0 | 👁️ 0 | [strixś](https://github.com/usestrix/strixś) |
+| 2026-01-23 | strix | Open-source AI agents for penetration testing | ⭐ 19406 | 👁️ 101 | [strix](https://github.com/usestrix/strix) |
 | 2026-01-22 | pentestagent | PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. | ⭐ 1055 | 👁️ 17 | [pentestagent](https://github.com/GH05TCREW/pentestagent) |
 | 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11215 | 👁️ 221 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
 | 2025-12-02 | nebula | AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. | ⭐ 862 | 👁️ 15 | [nebula](https://github.com/BerylliumSec/nebula) |
