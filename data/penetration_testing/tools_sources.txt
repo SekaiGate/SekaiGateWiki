@@ -1,0 +1,9 @@
+https://github.com/GH05TCREW/pentestagent
+https://github.com/usestrix/strixś
+https://github.com/haroonawanofficial/AISA-Scanner
+https://github.com/crond-jaist/AutoPentest-DRL
+https://github.com/gyoisamurai/GyoiThon
+https://github.com/Armur-Ai/Auto-Pentest-GPT-AI
+https://github.com/IPA-Lab/HackingBuddyGPT
+https://github.com/GreyDGL/PentestGPT
+https://github.com/BerylliumSec/nebula
