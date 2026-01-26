@@ -23,6 +23,7 @@ theme:
 plugins:
   - search
   - i18n:
+      language_detection: true
       languages:
         - locale: en
           name: English
