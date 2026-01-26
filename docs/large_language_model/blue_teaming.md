@@ -35,7 +35,8 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 | **HiddenLayer** | AISPM Platform | **Annual Licence**. Specialised protection of intellectual property and model integrity. | USA | USA | [Link](https://hiddenlayer.com/aidr/) |
 | **Cato Networks** | Cato AI Security | **Enterprise Licence**. Protection of ‘Shadow AI’ and agents built into the SASE platform. | Israel | Israel / USA | [Link](https://www.catonetworks.com/ai-and-security/ai-powered-security/) |
 | **DataSunrise** | Database AI Security | **Per Instance Licence**. Data security (PII masking) in AI-integrated databases. | USA / Israel | USA | [Link](https://www.datasunrise.com/ai-security/) |
-| **CrowdStrike** | Falcon AI Guard | **SaaS / Pay-as-you-go**. Runtime protection and prompt filtering. | USA | USA | [Link](https://www.google.com/search?q=https://www.crowdstrike.com/pr
+| **CrowdStrike** | Falcon AI Guard | **SaaS / Pay-as-you-go**. Runtime protection and prompt filtering. | USA | USA | [Link](https://www.crowdstrike.com/en-us/platform/data-protection/) |
+| **Promptfoo** | Promptfoo Guard | **Seat-based / Enterprise**. Commercial guardrails | USA | USA (Insight Partners) | [Link](https://www.promptfoo.dev/guardrails/) |
 
 ---
 

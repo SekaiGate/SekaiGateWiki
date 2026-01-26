@@ -37,7 +37,7 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 | **HiddenLayer** | AISPM Platform | **Annual License**. Specjalistyczna ochrona własności intelektualnej i integralności modeli. | USA | USA | [Link](https://hiddenlayer.com/aidr/) |
 | **Cato Networks** | Cato AI Security | **Enterprise License**. Ochrona "Shadow AI" i agentów wbudowana w platformę SASE. | Izrael | Izrael / USA | [Link](https://www.catonetworks.com/ai-and-security/ai-powered-security/) |
 | **DataSunrise** | Database AI Security | **Per Instance License**. Bezpieczeństwo danych (maskowanie PII) w bazach danych zintegrowanych z AI. | USA / Izrael | USA | [Link](https://www.datasunrise.com/ai-security/) |
-| **CrowdStrike** | Falcon AI Guard | **SaaS / Pay-as-you-go**. Ochrona runtime i filtrowanie promptów. | USA | USA | [Link](https://www.google.com/search?q=https://www.crowdstrike.com/products/ai-security/) |
+| **CrowdStrike** | Falcon AI Guard | **SaaS / Pay-as-you-go**. Ochrona runtime i filtrowanie promptów. | USA | USA | [Link](https://www.crowdstrike.com/en-us/platform/data-protection/) |
 | **Promptfoo** | Promptfoo Guard | **Seat-based / Enterprise**. Komercyjne guardrails | USA | USA (Insight Partners) | [Link](https://www.promptfoo.dev/guardrails/) |
 
 ---
