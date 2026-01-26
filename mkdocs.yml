@@ -1,4 +1,5 @@
 site_name: Sekai Gate Wiki
+site_url: https://sekaigate.github.io/SekaiGateWiki/pl/
 
 theme:
   name: material
