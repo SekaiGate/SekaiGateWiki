@@ -13,7 +13,7 @@ Lista narzędzi służących do ochrony, monitorowania i wzmacniania zabezpiecze
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 636 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 637 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
 | 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 200 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3600 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3602 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -46,7 +46,7 @@ Lista narzędzi zapewniających najlepsze praktyki ML SecOps:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-01-19 | model-transparency | Supply chain security for ML | ⭐ 217 | 👁️ 8 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2026-01-26 | model-transparency | Supply chain security for ML | ⭐ 217 | 👁️ 8 | [model-transparency](https://github.com/sigstore/model-transparency) |
 | 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 42 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
 | 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 124 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
