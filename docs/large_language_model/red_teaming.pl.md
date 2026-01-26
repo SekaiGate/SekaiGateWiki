@@ -59,11 +59,11 @@ Repozytoria z payloadami do wykorzystania podczas testów penetracyjnych:
 | **Giskard** | Ciągła współpraca zespołu red team | Najlepsze rozwiązanie dla firm z UE; skuteczne wykrywanie halucynacji i stronniczości. | Francja | Francja/UE | [Link](https://www.giskard.ai/products/continuous-red-teaming) |
 | **Promptfoo** | Red Teaming dla aplikacji AI | Standard dla programistów; ponad 50 rodzajów testów, ogromna biblioteka podpowiedzi. | USA | USA | [Link](https://www.promptfoo.dev/red-teaming/) |
 | **CalypsoAI** (F5) | Agentic Warfare | Skalowalny zespół Red Teaming dla agentów AI i systemów klasy korporacyjnej. | Irlandia | USA (F5, Inc.) | [Link](https://www.f5.com/) |
-| **Lakera** | Lakera Red | Ochrona w czasie rzeczywistym oparta na danych z gry „Gandalf”. | Szwajcaria | Izrael (Check Point) | [Link](https://www.lakera.ai/lakera-red) |
+| **Lakera** | Lakera Red | Ochrona w czasie rzeczywistym. | Szwajcaria | Izrael (Check Point) | [Link](https://www.lakera.ai/lakera-red) |
 | **HiddenLayer** | Automated Red Teaming | Ochrona własności intelektualnej modeli i skanowanie artefaktów (skanowanie modeli). | USA | USA | [Link](https://hiddenlayer.com/autortai/) |
-| **Mindgard** | Platforma Mindgard | Automatyzacja DAST-AI; testy odporności na każdym etapie CI/CD. | Wielka Brytania | USA / Wielka Brytania | [Link](https://mindgard.ai/) |
-| **Protect AI** | Platforma bezpieczeństwa AI | Koncentracja na łańcuchu dostaw AI i bezpieczeństwie open source. | USA | USA | [Link](https://protectai.com/) |
-| **Robust Intelligence** | Testy obciążeniowe AI | Dogłębne testy obciążeniowe przed wdrożeniem. | USA | USA (Cisco) | [Link](https://www.robustintelligence.com/) |
+| **Mindgard** | Platforma Mindgard | Automatyzacja DAST-AI. | Wielka Brytania | USA / Wielka Brytania | [Link](https://mindgard.ai/automated-ai-red-teaming) |
+| **Protect AI** | Recon | Skalowany Red Teaming dla AI. | USA | USA | [Link](https://protectai.com/recon) |
+| **Cisco** | Cisco AI Defense | Dogłębne testy obciążeniowe przed wdrożeniem. | USA | USA (Cisco) | [Link](https://www.robustintelligence.com/) |
 
 ---
 ## Security Testing Framework

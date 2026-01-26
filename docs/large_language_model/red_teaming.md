@@ -61,11 +61,11 @@ Repositories with payloads to be used during pentests:
 | **Giskard** | Continuous Red Teaming | Best for EU companies; strong detection of hallucinations and bias. | France | France/EU | [Link](https://www.giskard.ai/products/continuous-red-teaming) |
 | **Promptfoo** | Red Teaming for AI Apps | Developer standard; 50+ test types, huge prompt library. | USA | USA | [Link](https://www.promptfoo.dev/red-teaming/) |
 | **CalypsoAI** (F5) | Agentic Warfare | Scalable Red Teaming for AI agents and enterprise-class systems. | Ireland | USA (F5, Inc.) | [Link](https://www.f5.com/) |
-| **Lakera** | Lakera Red | Real-time protection based on data from the ‘Gandalf’ game. | Switzerland | Israel (Check Point) | [Link](https://www.lakera.ai/lakera-red) |
+| **Lakera** | Lakera Red | Real-time protection. | Switzerland | Israel (Check Point) | [Link](https://www.lakera.ai/lakera-red) |
 | **HiddenLayer** | Automated Red Teaming | Protection of model intellectual property and artefact scanning (model scanning). | USA | USA | [Link](https://hiddenlayer.com/autortai/) |
-| **Mindgard** | Mindgard Platform | DAST-AI automation; resilience testing at every stage of CI/CD. | UK | USA / UK | [Link](https://mindgard.ai/) |
-| **Protect AI** | AI Security Platform | Focus on AI supply chain and open-source security. | USA | USA | [Link](https://protectai.com/) |
-| **Robust Intelligence** | AI Stress Testing | Deep stress testing prior to deployment. | USA | USA (Cisco) | [Link](https://www.robustintelligence.com/) |
+| **Mindgard** | Continuous & Automated AI Red Teaming | DAST-AI automation. | UK | USA / UK | [Link](https://mindgard.ai/automated-ai-red-teaming) |
+| **Protect AI** | Recon | Scalable Red Teaming for AI. | USA | USA | [Link](https://protectai.com/recon) |
+| **Cisco** | Cisco AI Defense | End-to-end protection for enterprises building, using, and innovating with AI. | USA | USA | [Link](https://www.cisco.com/site/us/en/products/security/ai-defense/robust-intelligence-is-part-of-cisco/index.html) |
 
 ---
 
