@@ -3,7 +3,7 @@ site_url: https://sekaigate.github.io/SekaiGateWiki/
 
 theme:
   name: material
-  language: pl
+  language: en
   features:
     - navigation.sections
     - navigation.expand
