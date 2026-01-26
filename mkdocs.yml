@@ -24,7 +24,6 @@ theme:
 plugins:
   - search
   - i18n:
-      default_language: pl
       languages:
         - locale: en
           name: English
