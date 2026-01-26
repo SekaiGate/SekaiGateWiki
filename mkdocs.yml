@@ -27,10 +27,10 @@ plugins:
       languages:
         - locale: en
           name: English
+          default: true
           build: true
         - locale: pl
           name: Polski
-          default: true
           build: true
           nav_translations:
             Home: Strona główna
