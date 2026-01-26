@@ -42,13 +42,13 @@ plugins:
 nav:
   - Home: index.md
   - Certificates: certificates.md
+  - Frameworks: frameworks.md
+  - Organizations: organizations.md
   - Regulations:
     - EU AI Act: regulations/eu_ai_act.md
     - ISO: regulations/iso.md
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
-  - Frameworks: frameworks.md
-  - Organizations: organizations.md
   - Large Language Models: 
     - Red Teaming: large_language_model/red_teaming.md
     - Blue Teaming: large_language_model/blue_teaming.md
