@@ -10,7 +10,7 @@ on:
     #   - main
     paths:
       - 'data/**/*.txt'
-      - 'docs/**/*.md'
+      # - 'docs/**/*.md'
 
 jobs:
   analyze:
