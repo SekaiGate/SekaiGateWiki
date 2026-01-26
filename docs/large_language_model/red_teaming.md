@@ -27,14 +27,9 @@ Repositories with payloads to be used during pentests:
 
 ---
 
-## LLM Testing Guidelines
-- [Mohit0 - Prompt Injection Cheatsheet](https://github.com/Mohit0/Prompt-Injection-Cheatsheet) - Oct 4, 2024
-- [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) - Apr 17, 2025
-- [Red Teaming LLMs: The Ultimate Step-by-Step LLM Red Teaming Guide](https://www.confident-ai.com/blog/red-teaming-llms-a-step-by-step-guide) - April 8, 2025
----
+## Tools
 
-##  Toolkits
-Essential tools for red teaming LLMs:
+###  Open Source
 
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_RED_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
@@ -56,33 +51,55 @@ Essential tools for red teaming LLMs:
 
 ---
 
-###  Security Testing Framework
+### Commercial
+
+| Company | Tool | Description | Country (Origin) | Major Shareholder Country | Link |
+| --- | --- | --- | --- | --- | --- |
+| **Giskard** | Continuous Red Teaming | Best for EU companies; strong detection of hallucinations and bias. | France | France/EU | [Link](https://www.giskard.ai/products/continuous-red-teaming) |
+| **Promptfoo** | Red Teaming for AI Apps | Developer standard; 50+ test types, huge prompt library. | USA | USA | [Link](https://www.promptfoo.dev/red-teaming/) |
+| **CalypsoAI** (F5) | Agentic Warfare | Scalable Red Teaming for AI agents and enterprise-class systems. | Ireland | USA (F5, Inc.) | [Link](https://www.f5.com/) |
+| **Lakera** | Lakera Red | Real-time protection based on data from the ‘Gandalf’ game. | Switzerland | Israel (Check Point) | [Link](https://www.lakera.ai/lakera-red) |
+| **HiddenLayer** | Automated Red Teaming | Protection of model intellectual property and artefact scanning (model scanning). | USA | USA | [Link](https://hiddenlayer.com/autortai/) |
+| **Mindgard** | Mindgard Platform | DAST-AI automation; resilience testing at every stage of CI/CD. | UK | USA / UK | [Link](https://mindgard.ai/) |
+| **Protect AI** | AI Security Platform | Focus on AI supply chain and open-source security. | USA | USA | [Link](https://protectai.com/) |
+| **Robust Intelligence** | AI Stress Testing | Deep stress testing prior to deployment. | USA | USA (Cisco) | [Link](https://www.robustintelligence.com/) |
+
+---
+
+##  Security Testing Framework
 - [LLM Adversarial Testing](https://github.com/drhitchen/llm-adversarial-testing) - Dec 7, 2024
 
 ---
 
-###  Known Exploits & CVEs
+## LLM Testing Guidelines
+- [Mohit0 - Prompt Injection Cheatsheet](https://github.com/Mohit0/Prompt-Injection-Cheatsheet) - Oct 4, 2024
+- [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) - Apr 17, 2025
+- [Red Teaming LLMs: The Ultimate Step-by-Step LLM Red Teaming Guide](https://www.confident-ai.com/blog/red-teaming-llms-a-step-by-step-guide) - April 8, 2025
 
+---
+
+## Known Exploits & CVEs
 - [https://www.cve.org/CVERecord/SearchResults?query=LLM](https://www.cve.org/CVERecord/SearchResults?query=LLM)
 - [https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection](https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection)
 
 ---
 
-### AI Incident Database
+## AI Incident Database
 - [https://incidentdatabase.ai/](https://incidentdatabase.ai/)
 
 ---
 
-### Inspiration & Ideas
+## Inspiration & Ideas
 - [Novel Universal Bypass for All Major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) - Apr 24, 2025
 - [Prompt Attack Scenarios (Gist)](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) - Apr 22, 2025
 - [SpAIware](https://www.youtube.com/watch?v=84NVG1c5LRI&ab_channel=BlackHat) - Apr 17, 2025
 - [Embrace The Red](https://embracethered.com/blog/) - Apr 6, 2025
 - [ An Emoji is All You Need… To Hack your LLM ](https://medium.com/google-cloud/emoji-jailbreaks-b3b5b295f38b) - Feb 20, 2025
 -  [Lessons from red teaming 100 generative AI products](https://www.microsoft.com/en-us/security/blog/2025/01/13/3-takeaways-from-red-teaming-100-generative-ai-products) - January 13, 2025
+
 ---
 
-### General Resources
+## General Resources
 Must-know resources for any AI security enthusiast:
 
 - [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/injection) - Mar 25, 2025
@@ -96,8 +113,6 @@ Must-know resources for any AI security enthusiast:
 - [HuggingFace Red Teaming Blog](https://huggingface.co/blog/red-teaming) – Feb 24, 2023  
 
 ---
-
-
 
 ## Disclaimer
 
