@@ -12,3 +12,5 @@ https://github.com/equiano-institute/haystack
 https://github.com/plurigrid/cogsec
 https://github.com/GreyDGL/PentestGPT
 https://github.com/BCG-X-Official/artkit
+https://github.com/cyberark/FuzzyAI
+https://github.com/mnns/LLMFuzzer
