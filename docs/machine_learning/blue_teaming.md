@@ -13,7 +13,7 @@ A comprehensive list of tools to safeguard, monitor, and harden your ML against 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 637 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 638 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
 | 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 200 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
