@@ -6,9 +6,9 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 
 ---
 
-## Tools for Protecting LLMs
-A comprehensive list of tools to safeguard, monitor, and harden your LLMs against attacks:
+## Tools
 
+### Open Source
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
@@ -24,9 +24,22 @@ A comprehensive list of tools to safeguard, monitor, and harden your LLMs agains
 | 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1399 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 
+---
+
+### Commercial
+| Company | Tool | Commercial model | Country of origin | Main shareholder's country | Link |
+| --- | --- | --- | --- | --- | --- |
+| **Lakera** | Lakera Guard | **Usage-based API**. The most popular commercial runtime (in-line) firewall for LLM. | Switzerland | Israel (Check Point) | [Link](https://www.lakera.ai/lakera-guard) |
+| **Cisco** | Cisco AI Defence | **Enterprise Subscription**. Network layer protection integrated with infrastructure. | USA | USA | [Link](https://www.cisco.com/go/ai-defense) |
+| **Coralogix** | Coralogix AI | **SaaS Enterprise**. Monitoring (Observability) and guardrails. | Israel | USA / Israel | [Link](https://coralogix.com/solutions/cyber/) |
+| **HiddenLayer** | AISPM Platform | **Annual Licence**. Specialised protection of intellectual property and model integrity. | USA | USA | [Link](https://hiddenlayer.com/aidr/) |
+| **Cato Networks** | Cato AI Security | **Enterprise Licence**. Protection of ‘Shadow AI’ and agents built into the SASE platform. | Israel | Israel / USA | [Link](https://www.catonetworks.com/ai-and-security/ai-powered-security/) |
+| **DataSunrise** | Database AI Security | **Per Instance Licence**. Data security (PII masking) in AI-integrated databases. | USA / Israel | USA | [Link](https://www.datasunrise.com/ai-security/) |
+| **CrowdStrike** | Falcon AI Guard | **SaaS / Pay-as-you-go**. Runtime protection and prompt filtering. | USA | USA | [Link](https://www.google.com/search?q=https://www.crowdstrike.com/pr
 
 ---
-### Tools for data privacy in LLMs
+
+### Data privacy in LLMs
 A comprehensive list of tools to ensure privacy in LLM:
 
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_PRIVACY_SOURCES -->
@@ -38,12 +51,12 @@ A comprehensive list of tools to ensure privacy in LLM:
 
 ---
 
-### Inspiration & Ideas
+## Inspiration & Ideas
 - [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses) - Feb 22, 2025
 - [Securing AI Model Weights](https://www.rand.org/pubs/research_reports/RRA2849-1.html) - May 30, 2024
 - [Prompt Injection Mitigation](https://github.com/Valhall-ai/prompt-injection-mitigations) - Aug 19, 2023
 ---
 
-### Prompt Shields
+## Prompt Shields
 
 - [Azure OpenAI Prompt Shield](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection)
