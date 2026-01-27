@@ -15,5 +15,6 @@ AI Agents to pojedyncze autonomiczne programy AI wykonujące określone zadania 
 
 ### Komercyjne
 
-PointGuard AI
-Akto Agentic Security
+PointGuard AI (https://www.pointguardai.com/agentic-ai-security)
+Akto Agentic Security (https://www.akto.io/agentic-security)
+https://www.agentfence.ai

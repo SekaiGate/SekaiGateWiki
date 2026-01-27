@@ -1,6 +1,4 @@
-
-
-## End to End
+# End to End
 
 - SPLXAI – Platforma z funkcjami zarówno ofensywnymi (red teaming) jak i defensywnymi (analiza bezpieczeństwa).
 - Cranium – Enterprise-ready governance i security platforma dla AI. (twój wpis)
