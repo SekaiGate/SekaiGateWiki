@@ -40,6 +40,7 @@ plugins:
             Tools: Narzędzia
             Frameworks: Frameworki
             Organizations: Organizacje
+            Code Analysis: Analiza Kodu
 nav:
   - Home: index.md
   - Certificates: certificates.md
@@ -50,6 +51,8 @@ nav:
     - ISO: regulations/iso.md
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
+  - Code Analysis:
+    - Tools: code_analysis/tools.md
   - Large Language Models: 
     - Red Teaming: large_language_model/red_teaming.md
     - Blue Teaming: large_language_model/blue_teaming.md
