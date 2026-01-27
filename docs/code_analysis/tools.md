@@ -4,7 +4,10 @@
 ### Open Source
 
 <!-- BEGIN_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
-
+| Date | Repo | Description | Stars | Watchers | Link |
+|------|------|-------------|-------|----------|------|
+|  | metis? | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 458 | 👁️ 5 | [metis?](https://github.com/arm/metis?) |
+| 2025-04-17 | codescan | CodeScanAI is an open source tool that utilizes powerful AI models (OpenAI, Gemini, and even self-hosted servers) to scan your codebase for possible security vulnerabilities. | ⭐ 51 | 👁️ 2 | [codescan](https://github.com/codescan-ai/codescan) |
 <!-- END_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 
 
