@@ -9,3 +9,4 @@ https://github.com/friuns2/BlackFriday-GPTs-Prompts.git
 https://github.com/0xk1h0/ChatGPT_DAN.git
 https://github.com/sherdencooper/prompt-injection.git
 https://github.com/mik0w/pallms.git
+https://github.com/verazuo/jailbreak_llms
