@@ -14,3 +14,8 @@ https://github.com/GreyDGL/PentestGPT
 https://github.com/BCG-X-Official/artkit
 https://github.com/cyberark/FuzzyAI
 https://github.com/mnns/LLMFuzzer
+https://github.com/safellama/plexiglass
+https://github.com/controllability/jailbreak-evaluation
+https://github.com/prompt-security/ps-fuzz
+https://github.com/Repello-AI/whistleblower
+https://github.com/liu00222/Open-Prompt-Injection
