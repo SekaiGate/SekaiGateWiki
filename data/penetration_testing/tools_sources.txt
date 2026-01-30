@@ -8,3 +8,4 @@ https://github.com/IPA-Lab/HackingBuddyGPT
 https://github.com/GreyDGL/PentestGPT
 https://github.com/BerylliumSec/nebula
 https://github.com/0x4m4/hexstrike-ai
+https://github.com/FuzzingLabs/mcp-security-hub

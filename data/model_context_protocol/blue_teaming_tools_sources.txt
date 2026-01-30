@@ -1,0 +1,2 @@
+https://github.com/ModelContextProtocol-Security/mcpserver-audit
+https://github.com/invariantlabs-ai/mcp-scan
