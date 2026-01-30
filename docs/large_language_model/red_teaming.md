@@ -82,17 +82,6 @@ Repositories with payloads to be used during pentests:
 
 ---
 
-## Known Exploits & CVEs
-- [https://www.cve.org/CVERecord/SearchResults?query=LLM](https://www.cve.org/CVERecord/SearchResults?query=LLM)
-- [https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection](https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection)
-
----
-
-## AI Incident Database
-- [https://incidentdatabase.ai/](https://incidentdatabase.ai/)
-
----
-
 ## Inspiration & Ideas
 - [Novel Universal Bypass for All Major LLMs](https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/) - Apr 24, 2025
 - [Prompt Attack Scenarios (Gist)](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) - Apr 22, 2025

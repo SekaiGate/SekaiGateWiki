@@ -76,17 +76,6 @@ Repozytoria z payloadami do wykorzystania podczas testów penetracyjnych:
 - [Mohit0 - Prompt Injection Cheatsheet](https://github.com/Mohit0/Prompt-Injection-Cheatsheet) - Oct 4, 2024
 - [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook) - Apr 17, 2025
 - [Red Teaming LLMs: The Ultimate Step-by-Step LLM Red Teaming Guide](https://www.confident-ai.com/blog/red-teaming-llms-a-step-by-step-guide) - April 8, 2025
----
-
-##  Known Exploits & CVEs
-
-- [https://www.cve.org/CVERecord/SearchResults?query=LLM](https://www.cve.org/CVERecord/SearchResults?query=LLM)
-- [https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection](https://www.cve.org/CVERecord/SearchResults?query=Prompt+Injection)
-
----
-
-## AI Incident Database
-- [https://incidentdatabase.ai/](https://incidentdatabase.ai/)
 
 ---
 
