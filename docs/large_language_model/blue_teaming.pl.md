@@ -24,8 +24,8 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 | 2024-07-16 | HeimdaLLM | Constrain LLM output | ⭐ 113 | 👁️ 3 | [HeimdaLLM](https://github.com/amoffat/HeimdaLLM) |
 | 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 440 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
 | 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 440 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
-| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1405 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
-| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1405 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
+| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1406 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
+| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1406 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---

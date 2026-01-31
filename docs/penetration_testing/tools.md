@@ -12,9 +12,9 @@ List of tools to support Web Penetration Testing activities:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-01-30 | mcp-security-hub | A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more. | ⭐ 229 | 👁️ 3 | [mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) |
-| 2026-01-28 | strix | Open-source AI agents for penetration testing | ⭐ 19536 | 👁️ 103 | [strix](https://github.com/usestrix/strix) |
-| 2026-01-27 | pentestagent | PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. | ⭐ 1237 | 👁️ 16 | [pentestagent](https://github.com/GH05TCREW/pentestagent) |
-| 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11292 | 👁️ 224 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
+| 2026-01-28 | strix | Open-source AI agents for penetration testing | ⭐ 19537 | 👁️ 103 | [strix](https://github.com/usestrix/strix) |
+| 2026-01-27 | pentestagent | PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. | ⭐ 1238 | 👁️ 16 | [pentestagent](https://github.com/GH05TCREW/pentestagent) |
+| 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11296 | 👁️ 224 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
 | 2025-12-02 | nebula | AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. | ⭐ 867 | 👁️ 15 | [nebula](https://github.com/BerylliumSec/nebula) |
 | 2025-09-19 | hexstrike-ai | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. | ⭐ 6421 | 👁️ 126 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
 | 2025-08-27 | HackingBuddyGPT | Helping Ethical Hackers use LLMs in 50 Lines of Code or less.. | ⭐ 942 | 👁️ 18 | [HackingBuddyGPT](https://github.com/IPA-Lab/HackingBuddyGPT) |
