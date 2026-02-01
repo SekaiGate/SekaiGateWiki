@@ -93,7 +93,7 @@ Community links are available on the documentation site.
 | 2026.02 | Resources | Mark recommended articles about AI Security | 🟣 Upcoming |
 | 2026.02 | License | Add License information | 🟣 Upcoming |
 | 2026.02 | Resources | Add more resources about commercial tools | 🟣 Upcoming |
-| 2026.03 | Resources | Add more resources about MCP servers | 🟣 Upcoming |
+| 2026.02 | Resources | Add more resources about MCP servers | 🟣 Upcoming |
 | 2026.03 | Graphic Design | Add logo and graphic design to Wiki and Discord | 🟡 Planned |
 | 2026 Q2 | Community | Build active community | 🔵 Long-term |
 | 2026 Q3 | Training | Video course about using the most popular tools | 🔵 Long-term |
