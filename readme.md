@@ -86,7 +86,7 @@ Community links are available on the documentation site.
 ## 🗺️ Roadmap
 
 | Date | Focus Area | Key Goals | Status |
-| ---------- | --------- | ------ |
+| ---- | ---------- | --------- | ------ |
 | 2026.01 | Release | Publish initial draft with basic information | ✅ Done |
 | 2026.01 | Automation | All tables are updated automatically every 24h | ✅ Done |
 | ------- | Resources | Adding new resources on the Wiki | 🟢 Active |
