@@ -90,10 +90,11 @@ Community links are available on the documentation site.
 | 2026.01 | Release | Publish initial draft with basic information | ✅ Done |
 | 2026.01 | Automation | All tables are updated automatically every 24h | ✅ Done |
 | ------- | Resources | Adding new resources on the Wiki | 🟢 Active |
-| 2026.02 | Resources | Mark recommended articles about AI Security | 🟡 Planned |
-| 2026.02 | License | Add License information | 🟡 Planned |
-| 2026.02 | Resources | Add more resources about commercial tools | 🟣 Upcoming
+| 2026.02 | Resources | Mark recommended articles about AI Security | 🟣 Upcoming |
+| 2026.02 | License | Add License information | 🟣 Upcoming |
+| 2026.02 | Resources | Add more resources about commercial tools | 🟣 Upcoming |
 | 2026.03 | Resources | Add more resources about MCP servers | 🟣 Upcoming |
+| 2026.03 | Graphic Design | Add logo and graphic design to Wiki and Discord | 🟡 Planned |
 | 2026 Q2 | Community | Build active community | 🔵 Long-term |
 | 2026 Q3 | Training | Video course about using the most popular tools | 🔵 Long-term |
 
