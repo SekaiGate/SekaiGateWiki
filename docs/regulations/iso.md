@@ -37,6 +37,16 @@ Describes **trustworthiness concepts in AI**, including reliability, safety, sec
 
 ---
 
+### ISO/IEC 27090
+**Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and compromises to artificial intelligence systems**
+
+** Source:** [https://www.iso.org/standard/56581.html](https://www.iso.org/standard/56581.html)
+
+**Objective:**
+Provide information to organizations to help them better understand the consequences of security threats specific to AI systems, throughout their life cycle, and descriptions of how to detect and mitigate such threats.
+
+---
+
 ### ISO/IEC 42001
 **Information technology — Artificial intelligence — Management system**
 

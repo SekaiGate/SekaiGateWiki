@@ -37,6 +37,16 @@ Opisuje **koncepcje wiarygodności w sztucznej inteligencji**, w tym niezawodno�
 
 ---
 
+### ISO/IEC 27090
+**Cybersecurity — Artificial Intelligence — Guidance for addressing security threats and compromises to artificial intelligence systems**
+
+** Source:** [https://www.iso.org/standard/56581.html](https://www.iso.org/standard/56581.html)
+
+**Objective:**
+Dostarcza organizacjom informacji, które pomogą im lepiej zrozumieć konsekwencje zagrożeń bezpieczeństwa charakterystycznych dla systemów sztucznej inteligencji w całym cyklu ich życia, a także opisów sposobów wykrywania i ograniczania takich zagrożeń.
+
+---
+
 ### ISO/IEC 42001
 **Information technology — Artificial intelligence — Management system**
 
