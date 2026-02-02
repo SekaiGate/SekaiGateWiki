@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3609 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3610 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -46,7 +46,7 @@ Lista narzędzi zapewniających najlepsze praktyki ML SecOps:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-01-29 | model-transparency | Supply chain security for ML | ⭐ 218 | 👁️ 8 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2026-01-29 | model-transparency | Supply chain security for ML | ⭐ 218 | 👁️ 9 | [model-transparency](https://github.com/sigstore/model-transparency) |
 | 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 42 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
 | 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 124 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
@@ -58,7 +58,7 @@ Lista narzędzi do różnych działań związanych z ML:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-01-12 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5072 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
-| 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1267 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
+| 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1266 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 
