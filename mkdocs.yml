@@ -52,6 +52,7 @@ nav:
   - Regulations:
     - EU AI Act: regulations/eu_ai_act.md
     - ISO: regulations/iso.md
+    - AI Assurance Institute: regulations/aiassurance.md
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
   - Code Analysis:
