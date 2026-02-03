@@ -8,6 +8,7 @@ This page is built for penetration testers that would like to use AI tools in th
 ## Tools
 List of tools to support Web Penetration Testing activities:
 
+### Open Source
 <!-- BEGIN_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
@@ -23,3 +24,12 @@ List of tools to support Web Penetration Testing activities:
 | 2022-02-15 | AutoPentest-DRL | AutoPentest-DRL: Automated Penetration Testing Using Deep Reinforcement Learning | ⭐ 419 | 👁️ 9 | [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) |
 | 2021-06-29 | GyoiThon | GyoiThon is a growing penetration test tool using Machine Learning. | ⭐ 808 | 👁️ 65 | [GyoiThon](https://github.com/gyoisamurai/GyoiThon) |
 <!-- END_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
+
+### Commercial
+
+| Company | Tool | Description | Country (Origin) | Major Shareholder Country | Link |
+| ------- | ---- | ------------------------------ | ------------------------- | ---- | 
+| **Aikido Security** | **Attack (AI Pentesting)** | Autonomous AI-powered penetration testing that discovers, exploits, and validates vulnerabilities across web apps/APIs with audit-ready reports in hours. | USA | USA | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest) |
+| **Penti AI** | **AI Pentesting Software** | AI-driven pentest platform that combines agentic AI vulnerability detection with human expert validation and compliance-ready reporting. | USA | USA | [https://www.pentiai.com/features/ai-pentesting](https://www.pentiai.com/features/ai-pentesting) |
+| **Penligent** | **Agentic AI Hacker** | AI-powered pentest agent with autonomy, CVE exploitation, customizable workflows, and compliance-focused reporting for offensive security teams. | USA | USA | [https://www.penligent.ai/](https://www.penligent.ai/) |
+| **Zerod** | **PentAI** | Autonomous AI pentesting platform that runs deep scans on web apps and APIs with multi-agent detection and prioritized actionable insights. | USA | USA | [https://www.zerod.io/solutions/pentai](https://www.zerod.io/solutions/pentai) |

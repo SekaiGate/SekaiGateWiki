@@ -8,6 +8,7 @@ Ta strona została stworzona z myślą o testerach penetracyjnych, którzy chcie
 ## Narzędzia
 Lista narzędzi wspomagających działania związane z testami penetracyjnymi stron internetowych:
 
+### Open Source
 <!-- BEGIN_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
@@ -23,3 +24,13 @@ Lista narzędzi wspomagających działania związane z testami penetracyjnymi st
 | 2022-02-15 | AutoPentest-DRL | AutoPentest-DRL: Automated Penetration Testing Using Deep Reinforcement Learning | ⭐ 419 | 👁️ 9 | [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) |
 | 2021-06-29 | GyoiThon | GyoiThon is a growing penetration test tool using Machine Learning. | ⭐ 808 | 👁️ 65 | [GyoiThon](https://github.com/gyoisamurai/GyoiThon) |
 <!-- END_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
+
+### Komercyjne
+
+| Firma | Narzędzie | Model komercyjny | Kraj powstania | Kraj gł. udziałowca | Link |
+| --- | --- | --- | --- | --- | --- |
+| **Aikido Security** | **Atak (AI Pentesting)** | Autonomiczne testy penetracyjne oparte na sztucznej inteligencji, które wykrywają, wykorzystują i weryfikują luki w zabezpieczeniach aplikacji internetowych/API, generując gotowe do audytu raporty w ciągu kilku godzin. | USA | USA | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest) |
+| **Penti AI** | **AI Pentesting Software** | Platforma do testów penetracyjnych oparta na sztucznej inteligencji, która łączy wykrywanie luk w zabezpieczeniach przez sztuczną inteligencję z weryfikacją przez ekspertów i raportowaniem zgodnym z wymogami. | USA | USA | [https://www.pentiai.com/features/ai-pentesting](https://www.pentiai.com/features/ai-pentesting) |
+| **Penligent** | **Agentic AI Hacker** | Agent testów penetracyjnych oparty na sztucznej inteligencji, charakteryzujący się autonomią, wykorzystaniem CVE, konfigurowalnymi przepływami pracy i raportowaniem zgodnym z przepisami dla zespołów ds. bezpieczeństwa ofensywnego. | USA | USA | [https://www.penligent.ai/](https://www.penligent.ai/) |
+| **Zerod** | **PentAI** | Autonomiczna platforma testów penetracyjnych oparta na sztucznej inteligencji, która przeprowadza głębokie skanowanie aplikacji internetowych i interfejsów API z wykorzystaniem wykrywania wieloagentowego i priorytetowych, praktycznych informacji. | USA | USA | [https://www.zerod.io/solutions/pentai](https://www.zerod.io/solutions/pentai) |
+
