@@ -27,8 +27,8 @@ Lista narzędzi wspomagających działania związane z testami penetracyjnymi st
 
 ### Komercyjne
 
-| Firma | Narzędzie | Model komercyjny | Kraj powstania | Kraj gł. udziałowca | Link |
-| --- | --- | --- | --- | --- | --- |
+| Firma | Narzędzie | Opis | Kraj powstania | Kraj gł. udziałowca | Link |
+| ----- | --------- | ---- | -------------- | ------------------- | ---- |
 | **Aikido Security** | **Atak (AI Pentesting)** | Autonomiczne testy penetracyjne oparte na sztucznej inteligencji, które wykrywają, wykorzystują i weryfikują luki w zabezpieczeniach aplikacji internetowych/API, generując gotowe do audytu raporty w ciągu kilku godzin. | USA | USA | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest) |
 | **Penti AI** | **AI Pentesting Software** | Platforma do testów penetracyjnych oparta na sztucznej inteligencji, która łączy wykrywanie luk w zabezpieczeniach przez sztuczną inteligencję z weryfikacją przez ekspertów i raportowaniem zgodnym z wymogami. | USA | USA | [https://www.pentiai.com/features/ai-pentesting](https://www.pentiai.com/features/ai-pentesting) |
 | **Penligent** | **Agentic AI Hacker** | Agent testów penetracyjnych oparty na sztucznej inteligencji, charakteryzujący się autonomią, wykorzystaniem CVE, konfigurowalnymi przepływami pracy i raportowaniem zgodnym z przepisami dla zespołów ds. bezpieczeństwa ofensywnego. | USA | USA | [https://www.penligent.ai/](https://www.penligent.ai/) |

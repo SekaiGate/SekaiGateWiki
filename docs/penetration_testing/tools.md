@@ -28,8 +28,9 @@ List of tools to support Web Penetration Testing activities:
 ### Commercial
 
 | Company | Tool | Description | Country (Origin) | Major Shareholder Country | Link |
-| ------- | ---- | ------------------------------ | ------------------------- | ---- | 
+| ------- | ---- | ----------- | ---------------- | ------------------------- | ---- |
 | **Aikido Security** | **Attack (AI Pentesting)** | Autonomous AI-powered penetration testing that discovers, exploits, and validates vulnerabilities across web apps/APIs with audit-ready reports in hours. | USA | USA | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest) |
 | **Penti AI** | **AI Pentesting Software** | AI-driven pentest platform that combines agentic AI vulnerability detection with human expert validation and compliance-ready reporting. | USA | USA | [https://www.pentiai.com/features/ai-pentesting](https://www.pentiai.com/features/ai-pentesting) |
 | **Penligent** | **Agentic AI Hacker** | AI-powered pentest agent with autonomy, CVE exploitation, customizable workflows, and compliance-focused reporting for offensive security teams. | USA | USA | [https://www.penligent.ai/](https://www.penligent.ai/) |
 | **Zerod** | **PentAI** | Autonomous AI pentesting platform that runs deep scans on web apps and APIs with multi-agent detection and prioritized actionable insights. | USA | USA | [https://www.zerod.io/solutions/pentai](https://www.zerod.io/solutions/pentai) |
+
