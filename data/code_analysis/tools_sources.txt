@@ -1,2 +1,5 @@
 https://github.com/codescan-ai/codescan
 https://github.com/arm/metis
+https://github.com/Nayjest/Gito
+https://github.com/kodustech/kodus-ai
+https://github.com/FalconEYE-ai/FalconEYE
