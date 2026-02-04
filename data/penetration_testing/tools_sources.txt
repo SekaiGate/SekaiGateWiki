@@ -9,3 +9,5 @@ https://github.com/GreyDGL/PentestGPT
 https://github.com/BerylliumSec/nebula
 https://github.com/0x4m4/hexstrike-ai
 https://github.com/FuzzingLabs/mcp-security-hub
+https://github.com/ghostsecurity/reaper
+https://github.com/vxcontrol/pentagi

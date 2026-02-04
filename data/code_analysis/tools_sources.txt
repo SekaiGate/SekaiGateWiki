@@ -3,3 +3,5 @@ https://github.com/arm/metis
 https://github.com/Nayjest/Gito
 https://github.com/kodustech/kodus-ai
 https://github.com/FalconEYE-ai/FalconEYE
+https://github.com/agenticsorg/agentic-security
+https://github.com/vimox-shah-genea/vulnerability-agent
