@@ -1,6 +1,6 @@
 # 🔐 Sekai;Gate Wiki
 
-SekaiGateWiki is the open documentation portal and knowledge base for SekaiGate - a project focused on AI security, red-teaming, blue-teaming, compliance, and frameworks. The goal of this wiki is to provide structured, community-driven reference material covering techniques, tools, regulations, and best practices in AI-centric security and risk management.
+Sekai;Gate Wiki is the open documentation portal and knowledge base for Sekai;Gate - a project focused on AI security, red-teaming, blue-teaming, compliance, and frameworks. The goal of this wiki is to provide structured, community-driven reference material covering techniques, tools, regulations, and best practices in AI-centric security and risk management.
 
 ## 📖 Website documentation:
 👉 https://sekaigate.github.io/SekaiGateWiki/
