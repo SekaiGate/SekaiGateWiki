@@ -1,0 +1,3 @@
+https://github.com/mcp-security-standard/mcp-server-security-standard
+https://github.com/MCP-Manager/MCP-Checklists
+https://github.com/slowmist/MCP-Security-Checklist

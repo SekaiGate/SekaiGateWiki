@@ -21,4 +21,11 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony serwerów Model Cont
 
 ### Komercyjne
 
-Nie dodano jeszcze zadnych narzędzi.
+| Firma | Narzędzie | Opis | Kraj (pochodzenie) | Kraj głównego udziałowca | Link |
+| --- | --- | --- | --- | --- | --- |
+| **BlueRock** | Agentic Security Platform | System ochrony agentów AI (guardrails, sandboxing) oraz audytowania bezpiecznych połączeń MCP. | USA | USA | [https://www.bluerock.io/](https://www.bluerock.io/) |
+
+### Checklisty
+<!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_CHECKLISTS_SOURCES -->
+
+<!-- END_DATA_MODEL_CONTEXT_PROTOCOL_CHECKLISTS_TOOLS_SOURCES -->

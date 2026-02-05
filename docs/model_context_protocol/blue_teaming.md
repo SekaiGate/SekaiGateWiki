@@ -21,4 +21,12 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 
 ### Commercial
 
-No tools added yet.
+| Company | Tool | Description | Country of origin | Main shareholder's country | Link |
+| --- | --- | --- | --- | --- | --- |
+| **BlueRock** | Agentic Security Platform | AI agent protection system (guardrails, sandboxing) and auditing of secure MCP connections. | USA | USA | [https://www.bluerock.io/](https://www.bluerock.io/) |
+
+
+### Checklists
+<!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_CHECKLISTS_SOURCES -->
+
+<!-- END_DATA_MODEL_CONTEXT_PROTOCOL_CHECKLISTS_TOOLS_SOURCES -->
