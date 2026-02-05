@@ -1,1 +1,3 @@
 https://github.com/promptfoo/promptfoo
+https://github.com/invariantlabs-ai/mcp-scan
+https://github.com/PurpleAILAB/Decepticon

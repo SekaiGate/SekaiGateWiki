@@ -1,2 +1,7 @@
 https://github.com/ModelContextProtocol-Security/mcpserver-audit
+https://github.com/SaravanaGuhan/mcp-guard
+https://github.com/beejak/MCP_Scanner
+https://github.com/cisco-ai-defense/mcp-scanner
+https://github.com/kapilduraphe/mcp-watch
 https://github.com/invariantlabs-ai/mcp-scan
+https://github.com/modelcontextprotocol/inspector
