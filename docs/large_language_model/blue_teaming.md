@@ -30,7 +30,7 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 ---
 
 ### Commercial
-| Company | Tool | Commercial model | Country of origin | Main shareholder's country | Link |
+| Company | Tool | Description | Country of origin | Main shareholder's country | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Lakera** | Lakera Guard | **Usage-based API**. The most popular commercial runtime (in-line) firewall for LLM. | Switzerland | Israel (Check Point) | [Link](https://www.lakera.ai/lakera-guard) |
 | **Cisco** | Cisco AI Defence | **Enterprise Subscription**. Network layer protection integrated with infrastructure. | USA | USA | [Link](https://www.cisco.com/go/ai-defense) |
