@@ -13,7 +13,7 @@ Lista narzędzi służących do ochrony, monitorowania i wzmacniania zabezpiecze
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 641 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-09-10 | modelscan | Protection against Model Serialization Attacks | ⭐ 642 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
 | 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 200 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3614 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3615 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -58,7 +58,7 @@ Lista narzędzi do różnych działań związanych z ML:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-01-12 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5067 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
-| 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1266 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
+| 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1267 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 
