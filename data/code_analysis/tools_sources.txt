@@ -5,3 +5,6 @@ https://github.com/kodustech/kodus-ai
 https://github.com/FalconEYE-ai/FalconEYE
 https://github.com/agenticsorg/agentic-security
 https://github.com/vimox-shah-genea/vulnerability-agent
+https://github.com/anthropics/claude-code-security-review
+https://github.com/protectai/vulnhuntr
+https://github.com/trailofbits/buttercup
