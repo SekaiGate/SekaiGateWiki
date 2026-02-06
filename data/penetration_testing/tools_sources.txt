@@ -11,3 +11,4 @@ https://github.com/0x4m4/hexstrike-ai
 https://github.com/FuzzingLabs/mcp-security-hub
 https://github.com/ghostsecurity/reaper
 https://github.com/vxcontrol/pentagi
+https://github.com/Tencent/AI-Infra-Guard
