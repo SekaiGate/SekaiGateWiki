@@ -11,3 +11,5 @@ https://github.com/protectai/rebuff
 https://github.com/openguardrails/openguardrails
 https://github.com/protectai/rebuff
 https://github.com/deadbits/vigil-llm
+https://github.com/whylabs/langkit
+https://github.com/SeldonIO/alibi-detect

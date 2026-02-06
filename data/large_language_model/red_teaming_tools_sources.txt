@@ -19,3 +19,6 @@ https://github.com/controllability/jailbreak-evaluation
 https://github.com/prompt-security/ps-fuzz
 https://github.com/Repello-AI/whistleblower
 https://github.com/liu00222/Open-Prompt-Injection
+https://github.com/cyberark/FuzzyAI
+https://github.com/sherdencooper/GPTFuzz
+https://github.com/confident-ai/deepteam
