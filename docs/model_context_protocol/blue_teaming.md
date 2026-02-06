@@ -13,9 +13,9 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-05 | mcp-scan | Security scanner for AI agents, MCP servers and Skills. | ⭐ 1427 | 👁️ 11 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
-| 2026-02-05 | inspector | Visual testing tool for MCP servers | ⭐ 8562 | 👁️ 55 | [inspector](https://github.com/modelcontextprotocol/inspector) |
-| 2026-01-29 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 777 | 👁️ 10 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-02-06 | inspector | Visual testing tool for MCP servers | ⭐ 8562 | 👁️ 55 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-02-05 | mcp-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 1429 | 👁️ 11 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
+| 2026-01-29 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 778 | 👁️ 10 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
 | 2026-01-07 | MCP_Scanner | 🛡️ Enterprise-grade security scanner for Model Context Protocol (MCP) servers. Features AI-powered vulnerability detection, Semgrep integration, semantic AST analysis, HTML reports, and GitHub scanning. Built with Rust for blazing performance. | ⭐ 1 | 👁️ 0 | [MCP_Scanner](https://github.com/beejak/MCP_Scanner) |
 | 2025-12-02 | mcp-watch | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. | ⭐ 120 | 👁️ 0 | [mcp-watch](https://github.com/kapilduraphe/mcp-watch) |
 | 2025-10-02 | mcpserver-audit | mcpserver-audit: Helps you check if MCP servers are safe before using them. Examines servers for security problems, supports publishing findings in audit-db and vulnerability-db. Part of the Model Context Protocol Security initiative, a Cloud Security Alliance project. | ⭐ 10 | 👁️ 1 | [mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) |
@@ -35,6 +35,6 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_CHECKLISTS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-01-29 | mcp-server-security-standard | MCP Server Security Standard (MSSS): an open, testable security control standard for certifying MCP servers, with levels, evidence requirements, and reporting schemas. | ⭐ 51 | 👁️ 3 | [mcp-server-security-standard](https://github.com/mcp-security-standard/mcp-server-security-standard) |
+| 2026-01-29 | mcp-server-security-standard | MCP Server Security Standard (MSSS): an open, testable security control standard for certifying MCP servers, with levels, evidence requirements, and reporting schemas. | ⭐ 52 | 👁️ 3 | [mcp-server-security-standard](https://github.com/mcp-security-standard/mcp-server-security-standard) |
 | 2025-10-23 | MCP-Checklists | No description | ⭐ 185 | 👁️ 4 | [MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists) |
 | 2025-04-28 | MCP-Security-Checklist | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | ⭐ 799 | 👁️ 11 | [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) |
