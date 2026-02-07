@@ -62,6 +62,10 @@ nav:
     - Tools: penetration_testing/tools.md
   - Code Analysis:
     - Tools: code_analysis/tools.md
+  - Model Context Protocol:
+    - Training Resources: large_language_model/training_resources.md
+    - Red Teaming: model_context_protocol/red_teaming.md
+    - Blue Teaming: model_context_protocol/blue_teaming.md
   - Large Language Models: 
     - Training Resources: large_language_model/training_resources.md
     - Red Teaming: large_language_model/red_teaming.md
@@ -72,6 +76,3 @@ nav:
   - Natural Language Processing:
     - Red Teaming: natural_language_processing/red_teaming.md
     - Blue Teaming: natural_language_processing/blue_teaming.md
-  - Model Context Protocol:
-    - Red Teaming: model_context_protocol/red_teaming.md
-    - Blue Teaming: model_context_protocol/blue_teaming.md
