@@ -13,7 +13,7 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-06 | inspector | Visual testing tool for MCP servers | ⭐ 8578 | 👁️ 55 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-02-06 | inspector | Visual testing tool for MCP servers | ⭐ 8581 | 👁️ 55 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-02-05 | mcp-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 1437 | 👁️ 11 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
 | 2026-01-29 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 781 | 👁️ 10 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
 | 2026-01-20 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 133 | 👁️ 3 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
