@@ -17,7 +17,7 @@ Narzędzia ofensywane do testowania bezpieczeństwa ML'ów:
 | 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2938 | 👁️ 41 | [foolbox](https://github.com/bethgelab/foolbox) |
 | 2023-01-31 | cleverhans | An adversarial example library for constructing attacks, building defenses, and benchmarking both | ⭐ 6410 | 👁️ 185 | [cleverhans](https://github.com/cleverhans-lab/cleverhans) |
 | 2022-08-08 | AdvBox | Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding. | ⭐ 1410 | 👁️ 49 | [AdvBox](https://github.com/advboxes/AdvBox) |
-| 2022-05-29 | advertorch | A Toolbox for Adversarial Robustness Research | ⭐ 1362 | 👁️ 24 | [advertorch](https://github.com/BorealisAI/advertorch) |
+| 2022-05-29 | advertorch | A Toolbox for Adversarial Robustness Research | ⭐ 1363 | 👁️ 24 | [advertorch](https://github.com/BorealisAI/advertorch) |
 | 2022-05-17 | deep-pwning | Metasploit for machine learning. | ⭐ 571 | 👁️ 60 | [deep-pwning](https://github.com/cchio/deep-pwning) |
 <!-- END_DATA_MACHINE_LEARNING_RED_TEAMING_TOOLS_SOURCES -->
 
