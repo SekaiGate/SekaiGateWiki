@@ -1,0 +1,2 @@
+https://github.com/harishsg993010/damn-vulnerable-mcp-server
+https://github.com/microsoft/AI-Red-Teaming-Playground-Labs

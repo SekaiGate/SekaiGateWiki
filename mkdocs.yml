@@ -45,6 +45,7 @@ plugins:
             Frameworks: Frameworki
             Organizations: Organizacje
             Code Analysis: Analiza Kodu
+            Training Resources: Materiały szkoleniowe
 nav:
   - Home: index.md
   - Certificates: certificates.md
@@ -62,6 +63,7 @@ nav:
   - Code Analysis:
     - Tools: code_analysis/tools.md
   - Large Language Models: 
+    - Training Resources: large_language_model/training_resources.md
     - Red Teaming: large_language_model/red_teaming.md
     - Blue Teaming: large_language_model/blue_teaming.md
   - Machine Learning:

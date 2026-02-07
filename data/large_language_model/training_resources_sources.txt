@@ -1,0 +1,3 @@
+https://github.com/dhammon/ai-goat
+https://github.com/ReversecLabs/damn-vulnerable-llm-agent
+https://github.com/BishopFox/local-llm-ctf
