@@ -68,6 +68,9 @@
 | AI Security Foundation | https://aisecfoundation.org/ | --- | https://www.linkedin.com/company/ai-security-foundation |
 | AI Safety Poland | https://aisafety.org.pl/ | --- | https://www.linkedin.com/company/ai-safety-poland/ | https://luma.com/aisafetypl?k=c | 
 | AI Security Engineers - Poland | --- | --- | --- | https://www.meetup.com/aiseceng-poland/ |
+| AI Safety Polska - Warsaw local group | --- | --- | --- | https://www.meetup.com/ai-safety-polska-warsaw-local-group/ |
+| AI Safety Polska - Kraków local group | --- | --- | --- | https://www.meetup.com/ai-safety-polska-krakow-local-group/ |
+
 
 ## 🇪🇸 Spain
 
