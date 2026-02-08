@@ -46,11 +46,13 @@ plugins:
             Organizations: Organizacje
             Code Analysis: Analiza Kodu
             Training Resources: Materiały szkoleniowe
+            Communities: Społeczności
 nav:
   - Home: index.md
   - Certificates: certificates.md
   - Frameworks: frameworks.md
   - Organizations: organizations.md
+  - Communities: communities.md
   - AI Security Intelligence:
     - AI Incident Database: ai_security_intelligence/ai_incident_database.md
     - Known Exploits & CVEs: ai_security_intelligence/know_exploit_cves.md
