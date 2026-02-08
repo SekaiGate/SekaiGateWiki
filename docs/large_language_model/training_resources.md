@@ -2,14 +2,16 @@
 
 ## Online labs
 
-https://gandalf.lakera.ai/
-https://monthofaibugs.com/
-https://learn.microsoft.com/en-us/security/ai-red-team/training
-https://portswigger.net/web-security/learning-paths/llm-attacks
-https://feedox.com/wild-llama
-https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/
-https://dreadnode.io/crucible
-https://virtualsteve-star.github.io/chat-playground/
+| Vendor | Name | Category / Purpose | Link |
+| ----- | ----- | --------------- | ---- |
+| Lakera | **Gandalf** | An educational game and AI attack/red-teaming simulator that teaches about LLM vulnerabilities through challenges in the form of prompt injection and more advanced techniques (e.g., agentic AI) – AI security education. | [https://gandalf.lakera.ai/](https://gandalf.lakera.ai/) |
+| Embrace the Red| **The Month of AI Bugs** | An initiative/series of articles presenting various errors and vulnerabilities in AI, especially agent-based AI, aimed at raising awareness in the industry. | [https://monthofaibugs.com/](https://monthofaibugs.com/) |
+| Microsoft | **AI Red Team Training** | The official Microsoft training series on attacks and defenses for generative AI models covers attack techniques (e.g., prompt injection), case studies, and defense tools (e.g., PyRIT). | [https://learn.microsoft.com/en-us/security/ai-red-team/training](https://learn.microsoft.com/en-us/security/ai-red-team/training) |
+| PortSwigger | **Web Security Academy - Web LLM Attacks** | Web Security Academy learning path dedicated to attacks on LLM integrations with the web (prompt injection, API abuse, etc.) – interactive labs and theory. | [https://portswigger.net/web-security/learning-paths/llm-attacks](https://portswigger.net/web-security/learning-paths/llm-attacks) |
+| Feedox | **Wild LLaMa** | Mini-game/prompt engineering challenges testing LLM manipulation skills in successive levels. | [https://feedox.com/wild-llama](https://feedox.com/wild-llama) |
+| OWASP GenAI Security Project | **FinBot Agentic AI CTF Application** | An OWASP project offering an interactive CTF application simulating AI agent vulnerabilities (FinBot) and flags to be earned for educational/security projects. | [https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/](https://genai.owasp.org/resource/finbot-agentic-ai-capture-the-flag-ctf-application/) |
+| Dreadnode | **Crucible** | A platform with AI red-teaming challenges, allowing you to practice attack and security techniques in a controlled CTF environment (prompt injection, evasion, etc.). | [https://dreadnode.io/crucible](https://dreadnode.io/crucible) |
+| VirtualSteve-Star | **Steve’s Chat Playground** | Browser-based sandbox for experimenting with chat models, filters, and security stereotypes (prompt injection and filtering). | [https://virtualsteve-star.github.io/chat-playground/](https://virtualsteve-star.github.io/chat-playground/) |
 
 
 ## Offline labs
