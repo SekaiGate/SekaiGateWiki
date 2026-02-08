@@ -5,7 +5,7 @@
 # 🌍 International
 
 | Name | Website | GitHub | LinkedIn | Meetup |
-| ---- | ------- | ------ | -------- |
+| ---- | ------- | ------ | -------- | ------ |
 | OWASP AI Exchange | https://owaspai.org/ | https://github.com/OWASP/www-project-ai-security-and-privacy-guide | https://www.linkedin.com/company/owasp-ai-exchange/ | --- |
 | AI Security Hub | --- | https://github.com/TalEliyahu/Awesome-AI-Security | https://www.linkedin.com/groups/14545517/ | --- |
 | AI Village | https://aivillage.org/ | https://github.com/aivillage | --- | --- |
