@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
