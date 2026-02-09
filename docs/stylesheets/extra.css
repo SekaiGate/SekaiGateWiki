@@ -1,0 +1,14 @@
+/* Force emojis to show in the right-side Table of Contents */
+.md-sidebar--secondary .md-nav__link .twemoji {
+  display: inline-block;
+  height: 1.1em;
+  width: 1.1em;
+  vertical-align: text-bottom;
+  margin-right: 0.5rem;
+}
+
+/* Ensure the link text wraps correctly with the icon */
+.md-sidebar--secondary .md-nav__link {
+  display: flex;
+  align-items: center;
+}
