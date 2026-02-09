@@ -13,7 +13,7 @@
 
 ## 🌍 Europe
 
-### :flag_at: Austria
+### :flag_at: Austria {: data-toc-label=":flag_at: Austria" }
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |

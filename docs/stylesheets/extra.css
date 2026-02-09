@@ -1,14 +1,19 @@
-/* Force emojis to show in the right-side Table of Contents */
+/* Styl dla ikon w prawym spisie treści (ToC) */
 .md-sidebar--secondary .md-nav__link .twemoji {
-  display: inline-block;
-  height: 1.1em;
-  width: 1.1em;
+  display: inline-block !important;
+  height: 1.1em !important;
+  width: 1.1em !important;
   vertical-align: text-bottom;
   margin-right: 0.5rem;
 }
 
-/* Ensure the link text wraps correctly with the icon */
+/* Ustawienie kontenera linku, aby ikona i tekst były w jednej linii */
 .md-sidebar--secondary .md-nav__link {
-  display: flex;
+  display: flex !important;
   align-items: center;
+}
+
+/* Poprawka dla Edge/Chrome na Windows - wymuszenie renderowania SVG */
+.md-sidebar--secondary .md-nav__link svg {
+  pointer-events: none;
 }
