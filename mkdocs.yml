@@ -29,11 +29,12 @@ extra_css:
   
 markdown_extensions:
   - attr_list
-  - toc:
-      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify # Wspiera znaki specjalne w linkach
 
 plugins:
   - search
