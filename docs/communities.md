@@ -84,7 +84,7 @@
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Switzerland | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-switzerland/) |
 
-### :flag_uk: United Kingdom
+### :flag_gb: United Kingdom
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
