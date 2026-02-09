@@ -13,55 +13,55 @@
 
 ## 🌍 Europe
 
-### :austria: Austria
+### :flag_at: Austria
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Austria | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-austria/) |
 
-### :czech_republic: Czechia
+### :flag_cz: Czechia
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Czechia | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-czechia/) |
 
-### :fr: France
+### :flag_fr: France
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - France | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-france/) |
 
-### :de: Germany
+### :flag_de: Germany
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Germany | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-germany/) |
 
-### :greece: Greece
+### :flag_gr: Greece
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Greece | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-greece/) |
 
-### :hungary: Hungary
+### :flag_hu: Hungary
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Hungary | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-hungary/) |
 
-### :it: Italy
+### :flag_it: Italy
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Italy | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-italy/) |
 
-### :netherlands: Netherlands
+### :flag_nl: Netherlands
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Netherlands | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-netherlands/) |
 
-### :poland: Poland
+### :flag_pl: Poland
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -72,19 +72,19 @@
 | AI Safety Polska - Kraków local group | --- | --- | --- | [Meetup](https://www.meetup.com/ai-safety-polska-krakow-local-group/) |
 
 
-### :es: Spain
+### :flag_es: Spain
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Madrid, Spain | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-spain/) |
 
-### :switzerland: Switzerland
+### :flag_ch: Switzerland
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Switzerland | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-switzerland/) |
 
-### :uk: United Kingdom
+### :flag_uk: United Kingdom
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -95,14 +95,14 @@
 
 ## 🌍 North America
 
-### :canada: Canada
+### :flag_ca: Canada
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Toronto | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-toronto/) |
 | AI Security Engineers - Ottawa, Canada | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-ottowa-ca/) |
 
-### :us: United States
+### :flag_us: United States
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -118,7 +118,7 @@
 
 ## 🌎 South America
 
-### :brazil: Brazil
+### :flag_br: Brazil
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -129,19 +129,19 @@
 
 ## 🌍 Africa
 
-### :kenya: Kenya
+### :flag_ke: Kenya
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Kenya | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-kenya/) |
 
-### :nigeria: Nigeria
+### :flag_ni: Nigeria
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Nigeria | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-nigeria/) |
 
-### :south_africa: South Africa
+### :flag_za: South Africa
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -151,25 +151,25 @@
 
 ## 🌏 Asia
 
-### :azerbaijan: Azerbaijan
+### :flag_az: Azerbaijan
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Baku | --- | --- | --- | [Meetup](https://www.meetup.com/ai-security-engineers-baku/) |
 
-### :india: India
+### :flag_in: India
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Pune / Dehli | --- | --- | --- | [Meetup](https://www.meetup.com/aiseceng-india/) |
 
-### :israel: Israel
+### :flag_il: Israel
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
 | AI Security Engineers - Tel Aviv | --- | ---| --- | [Meetup](https://www.meetup.com/aiseceng-tel-aviv/) |
 
-### :united_arab_emirates: United Arab Emirates
+### :flag_ae: United Arab Emirates
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
@@ -179,7 +179,7 @@
 
 ## 🌏 Oceania
 
-### :australia: Australia
+### :flag_au: Australia
 
 | Name | Website | GitHub | LinkedIn | Meetup |
 | ---- | ------- | ------ | -------- | ------ |
