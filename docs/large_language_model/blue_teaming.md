@@ -12,13 +12,13 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-08 | openguardrails | Prevents enterprise AI applications from leaking sensitive data to external LLM providers — without disrupting user workflows. | ⭐ 225 | 👁️ 3 | [openguardrails](https://github.com/openguardrails/openguardrails) |
-| 2026-02-06 | guardrails | Adding guardrails to large language models. | ⭐ 6383 | 👁️ 37 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2026-02-06 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5620 | 👁️ 39 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
-| 2026-01-22 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4015 | 👁️ 64 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
+| 2026-02-09 | openguardrails | Prevents enterprise AI applications from leaking sensitive data to external LLM providers — without disrupting user workflows. | ⭐ 226 | 👁️ 3 | [openguardrails](https://github.com/openguardrails/openguardrails) |
+| 2026-02-09 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5628 | 👁️ 39 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-02-06 | guardrails | Adding guardrails to large language models. | ⭐ 6388 | 👁️ 37 | [guardrails](https://github.com/guardrails-ai/guardrails) |
+| 2026-01-22 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4016 | 👁️ 64 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
 | 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2485 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
 | 2025-10-08 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 130 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
-| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2515 | 👁️ 24 | [llm-guard](https://github.com/protectai/llm-guard) |
+| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2518 | 👁️ 24 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-03-22 | llm-defense | An easy-to-use Python framework to defend against jailbreak prompts. | ⭐ 21 | 👁️ 1 | [llm-defense](https://github.com/theshi-1128/llm-defense) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 976 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 976 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
@@ -51,7 +51,7 @@ A comprehensive list of tools to ensure privacy in LLM:
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_PRIVACY_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-05-13 | LangBiTe | A Bias Tester framework for LLMs | ⭐ 22 | 👁️ 3 | [LangBiTe](https://github.com/SOM-Research/LangBiTe) |
+| 2025-05-13 | LangBiTe | A Bias Tester framework for LLMs | ⭐ 23 | 👁️ 3 | [LangBiTe](https://github.com/SOM-Research/LangBiTe) |
 | 2024-08-12 | anonLLM | anonLLM: Anonymize Personally Identifiable Information (PII) for Large Language Model APIs | ⭐ 77 | 👁️ 1 | [anonLLM](https://github.com/fsndzomga/anonLLM) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_PRIVACY_SOURCES -->
 
