@@ -60,7 +60,7 @@ nav:
   - Organizations: organizations.md
   - Communities: communities.md
   - AI Security Intelligence:
-    - AI Incident Database: ai_security_intelligence/ai_incident_database.md
+    - AI Incident Database: ai_security_intelligence/ai_incidents.md
     - Known Exploits & CVEs: ai_security_intelligence/know_exploit_cves.md
   - Regulations:
     - EU AI Act: regulations/eu_ai_act.md
