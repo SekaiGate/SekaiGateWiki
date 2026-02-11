@@ -53,6 +53,7 @@ plugins:
             Code Analysis: Analiza Kodu
             Training Resources: Materiały szkoleniowe
             Communities: Społeczności
+            Secure AI Implementation: Bezpieczna implementacja AI
 nav:
   - Home: index.md
   - Certificates: certificates.md
@@ -68,6 +69,8 @@ nav:
     - AI Assurance Institute: regulations/aiassurance.md
   - Penetration Testing:
     - Tools: penetration_testing/tools.md
+  - Secure AI Implementation:
+    - Microsoft: secure_ai_implementation/microsoft.md
   - Code Analysis:
     - Tools: code_analysis/tools.md
   - Model Context Protocol:
