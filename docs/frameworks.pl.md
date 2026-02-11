@@ -2,6 +2,7 @@
 ## Zarządzanie i Zgodność (Governance)
 
 To "Konstytucje" dla Twojego projektu AI. Mówią o tym, jak organizacja powinna podchodzić do ryzyka, etyki i prawa.
+
 - [NIST AI Risk Management Framework](#nists-ai-risk-management-framework-ai-rmf): Najważniejszy, uniwersalny fundament. Dobry na start, by zrozumieć cały proces.
 - [AI Controls Matrix (AICM)](#ai-controls-matrix-aicm): Bardzo szczegółowa lista kontrolna (checklist), gdy musisz spełnić normy ISO.
 

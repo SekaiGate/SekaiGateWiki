@@ -2,6 +2,7 @@
 ## Governance
 
 This is the “Constitution” for your AI project. It outlines how your organization should approach risk, ethics, and legal issues.
+
 - [NIST AI Risk Management Framework](#nists-ai-risk-management-framework-ai-rmf): The most important, universal foundation. A good place to start to understand the whole process.
 - [AI Controls Matrix (AICM)](#ai-controls-matrix-aicm): A very detailed checklist when you need to meet ISO standards.
 
