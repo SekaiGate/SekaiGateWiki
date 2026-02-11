@@ -1,6 +1,26 @@
 # Wprowadzenie
+## Zarządzanie i Zgodność (Governance)
 
-Wymienione poniżej frameworki stanowią powszechnie stosowane podejścia do zarządzania specyficznym ryzykiem związanym z systemami sztucznej inteligencji. Pomagają one organizacjom przełożyć ogólne zasady dotyczące wiarygodnej, bezpiecznej i etycznej sztucznej inteligencji na ustrukturyzowane wytyczne, środki kontroli i praktyki obejmujące cały cykl życia sztucznej inteligencji — od projektowania i rozwoju po wdrażanie i monitorowanie. Ramy te wspólnie wspierają proces podejmowania decyzji, ocenę ryzyka, zarządzanie i zgodność z ewoluującymi oczekiwaniami regulacyjnymi i branżowymi w obszarach technicznym, operacyjnym i organizacyjnym.
+To "Konstytucje" dla Twojego projektu AI. Mówią o tym, jak organizacja powinna podchodzić do ryzyka, etyki i prawa.
+- [NIST AI Risk Management Framework](#nists-ai-risk-management-framework-ai-rmf): Najważniejszy, uniwersalny fundament. Dobry na start, by zrozumieć cały proces.
+- [AI Controls Matrix (AICM)](#ai-controls-matrix-aicm): Bardzo szczegółowa lista kontrolna (checklist), gdy musisz spełnić normy ISO.
+
+## Strategia i Bezpieczeństwo Techniczne
+Praktyczne podejście do zabezpieczania systemów przed atakami i awariami.
+
+- [Google SAIF](#googles-secure-ai-framework-saif): Strategia od giganta – jak budować bezpieczne systemy "by design".
+- [SAIL Framework](#sail-framework): Skupia się na zapewnieniu bezpieczeństwa w całym cyklu życia modelu.
+- [CAI Framework](#cai-cyber-ai-framework): Specjalistyczne narzędzie, jeśli pracujesz z robotami lub systemami autonomicznymi.
+
+## Bazy Wiedzy o Ryzyku i Atakach
+Encyklopedie problemów. Zaglądasz tu, by wiedzieć, co może pójść nie tak.
+
+- [MIT AI Risk Repository](#mit-ai-risk-repository): Gigantyczna lista ryzyk (np. uprzedzenia, błędy techniczne).
+- [IBM AI Risk Atlas](#ibm-ai-risk-atlas): Taksonomia ryzyk – pomaga "nazwać" problem, z którym się mierzysz.
+- [MITRE ATLAS](#mitre-atlas): Baza wiedzy o tym, jak hakerzy atakują AI (taktyki i techniki).
+
+
+# Frameworki
 
 ## NIST’s AI Risk Management Framework (AI RMF)
 

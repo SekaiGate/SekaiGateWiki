@@ -1,6 +1,25 @@
 # Introduction
+## Governance
 
-The frameworks listed below are widely used approaches for managing the unique risks posed by artificial intelligence systems. They help organizations translate broad principles of trustworthy, secure, and ethical AI into structured guidance, controls, and practices that span the AI lifecycle—from design and development to deployment and monitoring. Together, these frameworks support decision-making, risk assessment, governance, and compliance with evolving regulatory and industry expectations across technical, operational, and organizational domains.
+This is the “Constitution” for your AI project. It outlines how your organization should approach risk, ethics, and legal issues.
+- [NIST AI Risk Management Framework](#nists-ai-risk-management-framework-ai-rmf): The most important, universal foundation. A good place to start to understand the whole process.
+- [AI Controls Matrix (AICM)](#ai-controls-matrix-aicm): A very detailed checklist when you need to meet ISO standards.
+
+## Strategy and Technical Security
+A practical approach to securing systems against attacks and failures.
+
+- [Google SAIF](#googles-secure-ai-framework-saif): A strategy from a giant – how to build secure systems “by design.”
+- [SAIL Framework](#sail-framework): Focuses on ensuring security throughout the model's life cycle.
+- [CAI Framework](#cai-cyber-ai-framework): A specialized tool if you work with robots or autonomous systems.
+
+## Risk and Attack Knowledge Bases
+Encyclopedias of problems. You look here to know what can go wrong.
+
+- [MIT AI Risk Repository](#mit-ai-risk-repository): A huge list of risks (e.g., biases, technical errors).
+- [IBM AI Risk Atlas](#ibm-ai-risk-atlas): Taxonomy of risks – helps you “name” the problem you are facing.
+- [MITRE ATLAS](#mitre-atlas): Knowledge base on how hackers attack AI (tactics and techniques).
+
+# Frameworks
 
 ## NIST’s AI Risk Management Framework (AI RMF)
 
