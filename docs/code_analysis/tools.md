@@ -6,15 +6,15 @@
 <!-- BEGIN_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
+| 2026-02-13 | Gito | An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. | ⭐ 165 | 👁️ 7 | [Gito](https://github.com/Nayjest/Gito) |
 | 2026-02-12 | kodus-ai | AI code reviews — just like your senior dev would do. | ⭐ 907 | 👁️ 8 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
-| 2026-02-12 | buttercup | Buttercup finds and patches software vulnerabilities | ⭐ 1473 | 👁️ 26 | [buttercup](https://github.com/trailofbits/buttercup) |
-| 2026-02-11 | claude-code-security-review | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | ⭐ 2982 | 👁️ 26 | [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) |
-| 2026-02-11 | Gito | An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. | ⭐ 167 | 👁️ 7 | [Gito](https://github.com/Nayjest/Gito) |
-| 2026-02-10 | metis | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 467 | 👁️ 5 | [metis](https://github.com/arm/metis) |
-| 2026-02-09 | FalconEYE | AI-powered security code analyzer using local LLMs for semantic vulnerability detection. Unlike traditional SAST    tools, FalconEYE reasons about code contextually, no pattern matching. Supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. | ⭐ 32 | 👁️ 0 | [FalconEYE](https://github.com/FalconEYE-ai/FalconEYE) |
+| 2026-02-12 | buttercup | Buttercup finds and patches software vulnerabilities | ⭐ 1476 | 👁️ 26 | [buttercup](https://github.com/trailofbits/buttercup) |
+| 2026-02-11 | claude-code-security-review | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | ⭐ 2988 | 👁️ 26 | [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) |
+| 2026-02-10 | metis | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 468 | 👁️ 5 | [metis](https://github.com/arm/metis) |
+| 2026-02-09 | FalconEYE | AI-powered security code analyzer using local LLMs for semantic vulnerability detection. Unlike traditional SAST    tools, FalconEYE reasons about code contextually, no pattern matching. Supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. | ⭐ 33 | 👁️ 0 | [FalconEYE](https://github.com/FalconEYE-ai/FalconEYE) |
 | 2026-02-07 | codescan | CodeScanAI is an open source tool that utilizes powerful AI models (OpenAI, Gemini, and even self-hosted servers) to scan your codebase for possible security vulnerabilities. | ⭐ 53 | 👁️ 2 | [codescan](https://github.com/codescan-ai/codescan) |
 | 2025-09-29 | vulnerability-agent | 🛡️ AI-powered vulnerability scanner that automatically detects, analyzes, and fixes security issues in npm packages with intelligent code transformations. Supports GitHub Actions, CLI, Docker, and VS Code integration with Microsoft Teams notifications. | ⭐ 4 | 👁️ 0 | [vulnerability-agent](https://github.com/vimox-shah-genea/vulnerability-agent) |
-| 2025-03-18 | agentic-security | No description | ⭐ 46 | 👁️ 0 | [agentic-security](https://github.com/agenticsorg/agentic-security) |
+| 2025-03-18 | agentic-security | No description | ⭐ 47 | 👁️ 0 | [agentic-security](https://github.com/agenticsorg/agentic-security) |
 | 2025-02-06 | vulnhuntr | Zero shot vulnerability discovery using LLMs | ⭐ 2496 | 👁️ 33 | [vulnhuntr](https://github.com/protectai/vulnhuntr) |
 <!-- END_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 
