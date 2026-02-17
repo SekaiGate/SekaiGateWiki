@@ -11,7 +11,7 @@ Narzędzia ofensywane do testowania bezpieczeństwa ML'ów:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | mlsploit | No description | ⭐ 0 | 👁️ 0 | [mlsploit](https://github.com/mlsploit/) |
-| 2025-11-13 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 5830 | 👁️ 96 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
+| 2025-11-13 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 5833 | 👁️ 96 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
 | 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 55 | 👁️ 1 | [vger](https://github.com/JosephTLucas/vger) |
 | 2025-02-13 | Model-Inversion-Attack-ToolBox | A comprehensive toolbox for model inversion attacks and defenses, which is easy to get started. | ⭐ 190 | 👁️ 2 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) |
 | 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2937 | 👁️ 41 | [foolbox](https://github.com/bethgelab/foolbox) |
