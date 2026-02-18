@@ -14,8 +14,8 @@ You can find here tools, payloads, notes for testing the security boundaries of 
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | mcp-scan | No description | ⭐ 0 | 👁️ 0 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
-| 2026-02-16 | promptfoo | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | ⭐ 10477 | 👁️ 32 | [promptfoo](https://github.com/promptfoo/promptfoo) |
-| 2025-09-15 | Decepticon | Autonomous Multi-Agent Based Red Team Testing Service / AI hacker | ⭐ 492 | 👁️ 3 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
+| 2026-02-18 | promptfoo | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | ⭐ 10491 | 👁️ 32 | [promptfoo](https://github.com/promptfoo/promptfoo) |
+| 2025-09-15 | Decepticon | Autonomous Multi-Agent Based Red Team Testing Service / AI hacker | ⭐ 538 | 👁️ 3 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 
 ---

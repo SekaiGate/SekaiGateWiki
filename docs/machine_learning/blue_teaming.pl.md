@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3626 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3628 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 

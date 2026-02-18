@@ -14,7 +14,7 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | mcp-scan | No description | ⭐ 0 | 👁️ 0 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
-| 2026-02-16 | inspector | Visual testing tool for MCP servers | ⭐ 8684 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-02-16 | inspector | Visual testing tool for MCP servers | ⭐ 8691 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-02-13 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 805 | 👁️ 11 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
 | 2026-02-11 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 139 | 👁️ 3 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
 | 2026-01-07 | MCP_Scanner | 🛡️ Enterprise-grade security scanner for Model Context Protocol (MCP) servers. Features AI-powered vulnerability detection, Semgrep integration, semantic AST analysis, HTML reports, and GitHub scanning. Built with Rust for blazing performance. | ⭐ 1 | 👁️ 0 | [MCP_Scanner](https://github.com/beejak/MCP_Scanner) |
@@ -39,4 +39,4 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 |------|------|-------------|-------|----------|------|
 | 2026-01-29 | mcp-server-security-standard | MCP Server Security Standard (MSSS): an open, testable security control standard for certifying MCP servers, with levels, evidence requirements, and reporting schemas. | ⭐ 54 | 👁️ 3 | [mcp-server-security-standard](https://github.com/mcp-security-standard/mcp-server-security-standard) |
 | 2025-10-23 | MCP-Checklists | No description | ⭐ 185 | 👁️ 4 | [MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists) |
-| 2025-04-28 | MCP-Security-Checklist | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | ⭐ 800 | 👁️ 11 | [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) |
+| 2025-04-28 | MCP-Security-Checklist | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | ⭐ 801 | 👁️ 11 | [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) |
