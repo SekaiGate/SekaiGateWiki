@@ -14,7 +14,7 @@ Essential tools for red teaming NLP:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2025-07-10 | TextAttack | TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/ | ⭐ 3361 | 👁️ 33 | [TextAttack](https://github.com/QData/TextAttack) |
-| 2022-04-19 | OpenAttack | An Open-Source Package for Textual Adversarial Attack. | ⭐ 769 | 👁️ 16 | [OpenAttack](https://github.com/thunlp/OpenAttack) |
+| 2022-04-19 | OpenAttack | An Open-Source Package for Textual Adversarial Attack. | ⭐ 770 | 👁️ 16 | [OpenAttack](https://github.com/thunlp/OpenAttack) |
 | 2021-12-13 | TextFooler | A Model for Natural Language Attack on Text Classification and Inference | ⭐ 528 | 👁️ 11 | [TextFooler](https://github.com/jind11/TextFooler) |
 <!-- END_DATA_NATURAL_LANGUAGE_PROCESSING_RED_TEAMING_TOOLS_SOURCES -->
 
