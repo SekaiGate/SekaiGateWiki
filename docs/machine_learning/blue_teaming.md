@@ -13,8 +13,8 @@ A comprehensive list of tools to safeguard, monitor, and harden your ML against 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 646 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
-| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 200 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
+| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 647 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---
@@ -25,7 +25,7 @@ A comprehensive list of tools to ensure privacy in MLs:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-01-14 | privacy | Library for training machine learning models with privacy for training data | ⭐ 1999 | 👁️ 58 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 700 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 701 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1243 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
@@ -36,7 +36,7 @@ A comprehensive list of tools to ensure safely storing MLs:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3642 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2025-12-19 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3644 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -46,7 +46,7 @@ A comprehensive list of tools to ensure ML SecOps best practises:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-23 | model-transparency | Supply chain security for ML | ⭐ 222 | 👁️ 9 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2026-02-23 | model-transparency | Supply chain security for ML | ⭐ 224 | 👁️ 9 | [model-transparency](https://github.com/sigstore/model-transparency) |
 | 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 42 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
 | 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 124 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
