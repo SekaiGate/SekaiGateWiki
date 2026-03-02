@@ -12,20 +12,20 @@ Lista narzędzi wspomagających działania związane z testami penetracyjnymi st
 <!-- BEGIN_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-27 | AI-Infra-Guard | A full-stack AI Red Teaming platform securing AI ecosystems via AI Infra scan, MCP scan, Agent skills scan, and LLM jailbreak evaluation. | ⭐ 3004 | 👁️ 28 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) |
-| 2026-02-25 | strix | Open-source AI hackers to find and fix your app’s vulnerabilities. | ⭐ 20647 | 👁️ 109 | [strix](https://github.com/usestrix/strix) |
-| 2026-02-25 | pentestagent | PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. | ⭐ 1694 | 👁️ 18 | [pentestagent](https://github.com/GH05TCREW/pentestagent) |
-| 2026-02-25 | pentagi | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | ⭐ 8710 | 👁️ 63 | [pentagi](https://github.com/vxcontrol/pentagi) |
+|  | GyoiThon | GyoiThon is a growing penetration test tool using Machine Learning. | ⭐ 814 | 👁️ 65 | [GyoiThon](https://github.com/gyoisamurai/GyoiThon) |
+| 2026-03-01 | pentestagent | PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows. | ⭐ 1696 | 👁️ 18 | [pentestagent](https://github.com/GH05TCREW/pentestagent) |
+| 2026-02-27 | AI-Infra-Guard | A full-stack AI Red Teaming platform securing AI ecosystems via AI Infra scan, MCP scan, Agent skills scan, and LLM jailbreak evaluation. | ⭐ 3006 | 👁️ 28 | [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) |
+| 2026-02-25 | strix | Open-source AI hackers to find and fix your app’s vulnerabilities. | ⭐ 20664 | 👁️ 109 | [strix](https://github.com/usestrix/strix) |
+| 2026-02-25 | pentagi | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks | ⭐ 8818 | 👁️ 63 | [pentagi](https://github.com/vxcontrol/pentagi) |
 | 2026-02-25 | mcp-security-hub | A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more. | ⭐ 440 | 👁️ 4 | [mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) |
 | 2026-02-14 | reaper | Live validation proxy tool for testing web app vulnerabilities | ⭐ 831 | 👁️ 23 | [reaper](https://github.com/ghostsecurity/reaper) |
-| 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11827 | 👁️ 256 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
-| 2025-12-02 | nebula | AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. | ⭐ 884 | 👁️ 15 | [nebula](https://github.com/BerylliumSec/nebula) |
-| 2025-09-19 | hexstrike-ai | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. | ⭐ 7150 | 👁️ 137 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
-| 2025-08-27 | HackingBuddyGPT | Helping Ethical Hackers use LLMs in 50 Lines of Code or less.. | ⭐ 962 | 👁️ 18 | [HackingBuddyGPT](https://github.com/IPA-Lab/HackingBuddyGPT) |
+| 2026-01-02 | PentestGPT | Automated Penetration Testing Agentic Framework Powered by Large Language Models | ⭐ 11841 | 👁️ 256 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) |
+| 2025-12-02 | nebula | AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis. | ⭐ 886 | 👁️ 15 | [nebula](https://github.com/BerylliumSec/nebula) |
+| 2025-09-19 | hexstrike-ai | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. | ⭐ 7166 | 👁️ 137 | [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) |
+| 2025-08-27 | HackingBuddyGPT | Helping Ethical Hackers use LLMs in 50 Lines of Code or less.. | ⭐ 960 | 👁️ 18 | [HackingBuddyGPT](https://github.com/IPA-Lab/HackingBuddyGPT) |
 | 2025-07-31 | AISA-Scanner | AISA-Scanner is an AI-powered autonomous vulnerability scanner that maps CVEs to metasploit exploits, MITRE, CEH, and SANS, delivering intelligent, real-time risk reports. | ⭐ 32 | 👁️ 1 | [AISA-Scanner](https://github.com/haroonawanofficial/AISA-Scanner) |
 | 2025-06-11 | Auto-Pentest-GPT-AI | LLM Powered Pentesting for your software | ⭐ 196 | 👁️ 3 | [Auto-Pentest-GPT-AI](https://github.com/Armur-Ai/Auto-Pentest-GPT-AI) |
 | 2022-02-15 | AutoPentest-DRL | AutoPentest-DRL: Automated Penetration Testing Using Deep Reinforcement Learning | ⭐ 427 | 👁️ 9 | [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL) |
-| 2021-06-29 | GyoiThon | GyoiThon is a growing penetration test tool using Machine Learning. | ⭐ 814 | 👁️ 65 | [GyoiThon](https://github.com/gyoisamurai/GyoiThon) |
 <!-- END_DATA_PENETRATION_TESTING_TOOLS_SOURCES -->
 
 ### Komercyjne
