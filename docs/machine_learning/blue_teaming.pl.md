@@ -24,8 +24,8 @@ Lista narzędzi zapewniających prywatność w ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-01-14 | privacy | Library for training machine learning models with privacy for training data | ⭐ 1999 | 👁️ 58 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 702 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2026-01-14 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2003 | 👁️ 58 | [privacy](https://github.com/tensorflow/privacy) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 703 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1244 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| N/A | safetensors | No description | ⭐ 0 | 👁️ 0 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2026-03-05 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3658 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -57,7 +57,7 @@ Lista narzędzi do różnych działań związanych z ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-03-10 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5070 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-03-13 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5070 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1268 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
