@@ -13,21 +13,21 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-03-12 | openguardrails | Security guard for OpenClaw. Protect Agents with real-time defense against prompt injection, data leaks, and dangerous actions. | ⭐ 288 | 👁️ 3 | [openguardrails](https://github.com/openguardrails/openguardrails) |
+| 2026-03-12 | openguardrails | Security guard for OpenClaw. Protect Agents with real-time defense against prompt injection, data leaks, and dangerous actions. | ⭐ 294 | 👁️ 3 | [openguardrails](https://github.com/openguardrails/openguardrails) |
 | 2026-03-12 | guardrails | Adding guardrails to large language models. | ⭐ 6536 | 👁️ 36 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2026-03-12 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5777 | 👁️ 40 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
-| 2026-03-11 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4065 | 👁️ 66 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
+| 2026-03-12 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5780 | 👁️ 40 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-03-11 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4068 | 👁️ 66 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
 | 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2502 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
 | 2025-10-08 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 135 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
-| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2666 | 👁️ 25 | [llm-guard](https://github.com/protectai/llm-guard) |
+| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2673 | 👁️ 25 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-03-22 | llm-defense | An easy-to-use Python framework to defend against jailbreak prompts. | ⭐ 21 | 👁️ 1 | [llm-defense](https://github.com/theshi-1128/llm-defense) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 977 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 977 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
 | 2024-07-16 | HeimdaLLM | Constrain LLM output | ⭐ 113 | 👁️ 3 | [HeimdaLLM](https://github.com/amoffat/HeimdaLLM) |
 | 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 464 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
 | 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 464 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
-| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1441 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
-| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1441 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
+| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1442 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
+| 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1442 | 👁️ 14 | [rebuff](https://github.com/protectai/rebuff) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---

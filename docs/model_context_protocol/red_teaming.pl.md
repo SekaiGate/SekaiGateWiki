@@ -13,7 +13,7 @@ Repozytoria z payloadami do wykorzystania podczas testów penetracyjnych:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | mcp-scan | No description | ⭐ 0 | 👁️ 0 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
-| 2026-03-13 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | ⭐ 15306 | 👁️ 42 | [promptfoo](https://github.com/promptfoo/promptfoo) |
+| 2026-03-15 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. | ⭐ 15936 | 👁️ 45 | [promptfoo](https://github.com/promptfoo/promptfoo) |
 | 2025-09-15 | Decepticon | Autonomous Multi-Agent Based Red Team Testing Service / AI hacker | ⭐ 908 | 👁️ 7 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 
