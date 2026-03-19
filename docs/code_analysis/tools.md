@@ -6,16 +6,16 @@
 <!-- BEGIN_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
+| 2026-03-19 | kodus-ai | AI Code Review with Full Control Over Model Choice and Costs. | ⭐ 1006 | 👁️ 8 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
 | 2026-03-17 | metis | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 487 | 👁️ 5 | [metis](https://github.com/arm/metis) |
-| 2026-03-17 | kodus-ai | AI Code Review with Full Control Over Model Choice and Costs. | ⭐ 1000 | 👁️ 8 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
 | 2026-03-17 | Gito | An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. | ⭐ 189 | 👁️ 8 | [Gito](https://github.com/Nayjest/Gito) |
 | 2026-03-10 | FalconEYE | AI-powered security code analyzer using local LLMs for semantic vulnerability detection. Unlike traditional SAST    tools, FalconEYE reasons about code contextually, no pattern matching. Supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. | ⭐ 45 | 👁️ 1 | [FalconEYE](https://github.com/FalconEYE-ai/FalconEYE) |
 | 2026-03-09 | buttercup | Buttercup finds and patches software vulnerabilities | ⭐ 1531 | 👁️ 26 | [buttercup](https://github.com/trailofbits/buttercup) |
-| 2026-02-11 | claude-code-security-review | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | ⭐ 3836 | 👁️ 31 | [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) |
+| 2026-02-11 | claude-code-security-review | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | ⭐ 3857 | 👁️ 31 | [claude-code-security-review](https://github.com/anthropics/claude-code-security-review) |
 | 2026-02-07 | codescan | CodeScanAI is an open source tool that utilizes powerful AI models (OpenAI, Gemini, and even self-hosted servers) to scan your codebase for possible security vulnerabilities. | ⭐ 52 | 👁️ 2 | [codescan](https://github.com/codescan-ai/codescan) |
 | 2025-09-29 | vulnerability-agent | 🛡️ AI-powered vulnerability scanner that automatically detects, analyzes, and fixes security issues in npm packages with intelligent code transformations. Supports GitHub Actions, CLI, Docker, and VS Code integration with Microsoft Teams notifications. | ⭐ 4 | 👁️ 0 | [vulnerability-agent](https://github.com/vimox-shah-genea/vulnerability-agent) |
 | 2025-03-18 | agentic-security | No description | ⭐ 48 | 👁️ 0 | [agentic-security](https://github.com/agenticsorg/agentic-security) |
-| 2025-02-06 | vulnhuntr | Zero shot vulnerability discovery using LLMs | ⭐ 2585 | 👁️ 33 | [vulnhuntr](https://github.com/protectai/vulnhuntr) |
+| 2025-02-06 | vulnhuntr | Zero shot vulnerability discovery using LLMs | ⭐ 2586 | 👁️ 33 | [vulnhuntr](https://github.com/protectai/vulnhuntr) |
 <!-- END_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 
 

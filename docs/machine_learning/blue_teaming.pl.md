@@ -13,8 +13,8 @@ Lista narzędzi służących do ochrony, monitorowania i wzmacniania zabezpiecze
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 656 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
-| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
+| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 659 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 202 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---
@@ -36,7 +36,7 @@ Lista narzędzi zapewniających bezpieczne przechowywanie modeli uczenia maszyno
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-03-05 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3660 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2026-03-05 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3659 | 👁️ 40 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
