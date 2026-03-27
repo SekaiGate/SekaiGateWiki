@@ -25,8 +25,8 @@ A comprehensive list of tools to ensure privacy in MLs:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-03-17 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2003 | 👁️ 58 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 703 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
-| 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1245 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 704 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1244 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
 
@@ -36,7 +36,7 @@ A comprehensive list of tools to ensure safely storing MLs:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-03-05 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3666 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2026-03-26 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3667 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
