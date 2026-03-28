@@ -14,9 +14,9 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony serwerów Model Cont
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | mcp-scan | No description | ⭐ 0 | 👁️ 0 | [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) |
-| 2026-03-26 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 861 | 👁️ 11 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-03-26 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 864 | 👁️ 11 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
 | 2026-03-20 | ramparts | mcp scan that scans any mcp server for indirect attack vectors and security or configuration vulnerabilities | ⭐ 85 | 👁️ 1 | [ramparts](https://github.com/highflame-ai/ramparts) |
-| 2026-03-08 | inspector | Visual testing tool for MCP servers | ⭐ 9222 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-03-08 | inspector | Visual testing tool for MCP servers | ⭐ 9231 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-02-27 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 145 | 👁️ 4 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
 | 2026-01-07 | MCP_Scanner | 🛡️ Enterprise-grade security scanner for Model Context Protocol (MCP) servers. Features AI-powered vulnerability detection, Semgrep integration, semantic AST analysis, HTML reports, and GitHub scanning. Built with Rust for blazing performance. | ⭐ 1 | 👁️ 0 | [MCP_Scanner](https://github.com/beejak/MCP_Scanner) |
 | 2025-12-02 | mcp-watch | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. | ⭐ 124 | 👁️ 0 | [mcp-watch](https://github.com/kapilduraphe/mcp-watch) |
