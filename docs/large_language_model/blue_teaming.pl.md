@@ -13,19 +13,19 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
+| 2026-03-30 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4092 | 👁️ 68 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
 | 2026-03-27 | openguardrails | Protect every action your agent takes. | ⭐ 322 | 👁️ 4 | [openguardrails](https://github.com/openguardrails/openguardrails) |
-| 2026-03-26 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4089 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
-| 2026-03-24 | guardrails | Adding guardrails to large language models. | ⭐ 6603 | 👁️ 36 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2026-03-24 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5877 | 👁️ 41 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
-| 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2509 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
+| 2026-03-24 | guardrails | Adding guardrails to large language models. | ⭐ 6608 | 👁️ 36 | [guardrails](https://github.com/guardrails-ai/guardrails) |
+| 2026-03-24 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 5891 | 👁️ 41 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2510 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
 | 2025-10-08 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 137 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
-| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2758 | 👁️ 26 | [llm-guard](https://github.com/protectai/llm-guard) |
+| 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2759 | 👁️ 26 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-03-22 | llm-defense | An easy-to-use Python framework to defend against jailbreak prompts. | ⭐ 21 | 👁️ 1 | [llm-defense](https://github.com/theshi-1128/llm-defense) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 980 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 980 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
 | 2024-07-16 | HeimdaLLM | Constrain LLM output | ⭐ 113 | 👁️ 3 | [HeimdaLLM](https://github.com/amoffat/HeimdaLLM) |
-| 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 468 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
-| 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 468 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
+| 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 469 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
+| 2024-01-31 | vigil-llm | ⚡ Vigil ⚡  Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs | ⭐ 469 | 👁️ 9 | [vigil-llm](https://github.com/deadbits/vigil-llm) |
 | 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1456 | 👁️ 15 | [rebuff](https://github.com/protectai/rebuff) |
 | 2024-01-25 | rebuff | LLM Prompt Injection Detector | ⭐ 1456 | 👁️ 15 | [rebuff](https://github.com/protectai/rebuff) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
