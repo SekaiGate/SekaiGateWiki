@@ -17,7 +17,7 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 | N/A | MCP_Scanner | No description | ⭐ 0 | 👁️ 0 | [MCP_Scanner](https://github.com/beejak/MCP_Scanner) |
 | 2026-03-30 | ramparts | mcp scan that scans any mcp server for indirect attack vectors and security or configuration vulnerabilities | ⭐ 85 | 👁️ 1 | [ramparts](https://github.com/highflame-ai/ramparts) |
 | 2026-03-26 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 868 | 👁️ 11 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
-| 2026-03-08 | inspector | Visual testing tool for MCP servers | ⭐ 9267 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-03-08 | inspector | Visual testing tool for MCP servers | ⭐ 9290 | 👁️ 56 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-02-27 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 146 | 👁️ 4 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
 | 2025-12-02 | mcp-watch | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. | ⭐ 125 | 👁️ 0 | [mcp-watch](https://github.com/kapilduraphe/mcp-watch) |
 | 2025-10-02 | mcpserver-audit | mcpserver-audit: Helps you check if MCP servers are safe before using them. Examines servers for security problems, supports publishing findings in audit-db and vulnerability-db. Part of the Model Context Protocol Security initiative, a Cloud Security Alliance project. | ⭐ 14 | 👁️ 1 | [mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) |
