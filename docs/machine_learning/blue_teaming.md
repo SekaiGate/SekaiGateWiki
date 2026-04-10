@@ -13,7 +13,7 @@ A comprehensive list of tools to safeguard, monitor, and harden your ML against 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 676 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 675 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
 | 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 202 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
@@ -36,7 +36,7 @@ A comprehensive list of tools to ensure safely storing MLs:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-02 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3684 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2026-04-02 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3687 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -57,7 +57,7 @@ A list of tools for dirrefent activities related to ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-08 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5072 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-04-10 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5073 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1265 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
