@@ -36,7 +36,7 @@ A comprehensive list of tools to ensure safely storing MLs:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-02 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3698 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
+| 2026-04-02 | safetensors | Simple, safe way to store and distribute tensors | ⭐ 3701 | 👁️ 41 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -57,7 +57,7 @@ A list of tools for dirrefent activities related to ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-11 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5076 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-04-12 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5076 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1265 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
