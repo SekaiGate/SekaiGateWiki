@@ -4,6 +4,11 @@ This section highlights key organizations and initiatives working to advance mea
 
 # Organizations
 
+## OWASP AI
+
+An initiative focused on developing security standards and guidelines for systems based on artificial intelligence and generative AI. Its flagship project is the “OWASP Top 10 for LLM,” which identifies the most critical vulnerabilities in applications that use large language models, such as prompt injection and data leaks. They are author of many seceurity guidelines for development and usage AI.
+
+Source: [https://genai.owasp.org/](https://genai.owasp.org/)
 ## MLCommons
 
 A global nonprofit AI engineering consortium that accelerates machine learning innovation by creating open benchmarks, datasets, and tools for measuring performance, reliability, and safety.

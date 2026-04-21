@@ -4,6 +4,10 @@ W tej sekcji przedstawiono kluczowe organizacje i inicjatywy zajmujące się roz
 
 # Organizacje
 
+## OWASP AI
+
+Inicjatywa skupiająca się na opracowywaniu standardów bezpieczeństwa i wytycznych dotyczących systemów opartych na sztucznej inteligencji oraz generatywnej sztucznej inteligencji. Jej flagowym projektem jest „OWASP Top 10 for LLM”, który identyfikuje najbardziej krytyczne luki w zabezpieczeniach aplikacji wykorzystujących duże modele językowe, takie jak wstrzyknięcie poleceń i wycieki danych. Jest ona autorem wielu wytycznych dotyczących bezpieczeństwa w zakresie tworzenia i wykorzystywania sztucznej inteligencji.
+
 ## MLCommons
 
 Globalne konsorcjum inżynierów AI typu non-profit, które przyspiesza innowacje w dziedzinie uczenia maszynowego poprzez tworzenie otwartych testów porównawczych, zbiorów danych i narzędzi do pomiaru wydajności, niezawodności i bezpieczeństwa.
