@@ -12,11 +12,11 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| N/A | openguardrails | No description | ⭐ 0 | 👁️ 0 | [openguardrails](https://github.com/openguardrails/openguardrails) |
-| 2026-04-21 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6018 | 👁️ 40 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-04-21 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6022 | 👁️ 40 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-04-19 | AgentSecEval | AgentSecEval: Can Autonomous Agents Act Without Causing Harm? | ⭐ 342 | 👁️ 4 | [AgentSecEval](https://github.com/openguardrails/AgentSecEval) |
 | 2026-04-17 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4130 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
 | 2026-04-03 | guardrails | Adding guardrails to large language models. | ⭐ 6712 | 👁️ 36 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2513 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
+| 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2514 | 👁️ 35 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
 | 2025-10-08 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 137 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
 | 2025-09-03 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 2851 | 👁️ 25 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-03-22 | llm-defense | An easy-to-use Python framework to defend against jailbreak prompts. | ⭐ 21 | 👁️ 1 | [llm-defense](https://github.com/theshi-1128/llm-defense) |
