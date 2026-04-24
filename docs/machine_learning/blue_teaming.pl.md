@@ -24,7 +24,7 @@ Lista narzędzi zapewniających prywatność w ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-06 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2008 | 👁️ 59 | [privacy](https://github.com/tensorflow/privacy) |
+| 2026-04-06 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2010 | 👁️ 59 | [privacy](https://github.com/tensorflow/privacy) |
 | 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 708 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1244 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
@@ -57,7 +57,7 @@ Lista narzędzi do różnych działań związanych z ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-04-21 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5078 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-04-23 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5077 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2025-08-06 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1265 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 319 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
