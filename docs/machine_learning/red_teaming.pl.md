@@ -12,7 +12,7 @@ Narzędzia ofensywane do testowania bezpieczeństwa ML'ów:
 |------|------|-------------|-------|----------|------|
 | N/A | mlsploit | No description | ⭐ 0 | 👁️ 0 | [mlsploit](https://github.com/mlsploit/) |
 | 2025-11-13 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 5967 | 👁️ 100 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
-| 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 55 | 👁️ 1 | [vger](https://github.com/JosephTLucas/vger) |
+| 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 56 | 👁️ 1 | [vger](https://github.com/JosephTLucas/vger) |
 | 2025-02-13 | Model-Inversion-Attack-ToolBox | A comprehensive toolbox for model inversion attacks and defenses, which is easy to get started. | ⭐ 193 | 👁️ 2 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) |
 | 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2960 | 👁️ 40 | [foolbox](https://github.com/bethgelab/foolbox) |
 | 2023-01-31 | cleverhans | An adversarial example library for constructing attacks, building defenses, and benchmarking both | ⭐ 6431 | 👁️ 183 | [cleverhans](https://github.com/cleverhans-lab/cleverhans) |
