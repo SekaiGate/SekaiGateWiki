@@ -13,7 +13,7 @@ A comprehensive list of tools to safeguard, monitor, and harden your ML against 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 696 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
+| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 698 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
 | 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
@@ -25,7 +25,7 @@ A comprehensive list of tools to ensure privacy in MLs:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-05-05 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2012 | 👁️ 59 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 711 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 712 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1244 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
