@@ -11,7 +11,7 @@ AI Agents to pojedyncze autonomiczne programy AI wykonujące określone zadania 
 <!-- BEGIN_DATA_AGENTS_RED_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2025-09-10 | DoomArena | DoomArena is a Framework for Testing AI Agents Against Evolving Security Threats | ⭐ 60 | 👁️ 2 | [DoomArena](https://github.com/ServiceNow/DoomArena) |
+| 2025-09-10 | DoomArena | DoomArena is a Framework for Testing AI Agents Against Evolving Security Threats | ⭐ 61 | 👁️ 2 | [DoomArena](https://github.com/ServiceNow/DoomArena) |
 | 2025-03-06 | agentfence | AgentFence is an open-source platform for automatically testing AI agent security. It identifies vulnerabilities such as prompt injection, secret leakage, and system instruction exposure. | ⭐ 54 | 👁️ 1 | [agentfence](https://github.com/agentfence/agentfence) |
 <!-- END_DATA_AGENTS_RED_TEAMING_TOOLS_SOURCES -->
 ---
