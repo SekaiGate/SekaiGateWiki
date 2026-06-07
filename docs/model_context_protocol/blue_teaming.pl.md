@@ -13,9 +13,9 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony serwerów Model Cont
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-06-05 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 955 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
-| 2026-06-05 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 2534 | 👁️ 14 | [agent-scan](https://github.com/snyk/agent-scan) |
-| 2026-06-04 | inspector | Visual testing tool for MCP servers | ⭐ 10009 | 👁️ 63 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-06-05 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 956 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-06-05 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 2535 | 👁️ 14 | [agent-scan](https://github.com/snyk/agent-scan) |
+| 2026-06-04 | inspector | Visual testing tool for MCP servers | ⭐ 10017 | 👁️ 63 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-05-25 | ramparts | mcp & skill scanner that scans any mcp server or skills for indirect attack vectors and security or configuration vulnerabilities | ⭐ 89 | 👁️ 1 | [ramparts](https://github.com/highflame-ai/ramparts) |
 | 2026-05-12 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 149 | 👁️ 4 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
 | 2026-04-26 | mcp-watch | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. | ⭐ 132 | 👁️ 0 | [mcp-watch](https://github.com/kapilduraphe/mcp-watch) |
