@@ -13,7 +13,7 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-07-18 | inspector | Visual testing tool for MCP servers | ⭐ 10397 | 👁️ 65 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-07-18 | inspector | Visual testing tool for MCP servers | ⭐ 10401 | 👁️ 65 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-07-17 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 2790 | 👁️ 12 | [agent-scan](https://github.com/snyk/agent-scan) |
 | 2026-07-14 | mcpserver-audit | mcpserver-audit: Helps you check if MCP servers are safe before using them. Examines servers for security problems, supports publishing findings in audit-db and vulnerability-db. Part of the Model Context Protocol Security initiative, a Cloud Security Alliance project. | ⭐ 21 | 👁️ 1 | [mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) |
 | 2026-07-14 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 988 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
