@@ -14,3 +14,5 @@ https://github.com/Tencent/AI-Infra-Guard
 https://github.com/0xSteph/pentest-ai-agents
 https://github.com/Ed1s0nZ/CyberStrikeAI
 https://github.com/ASCIT31/Dark-Moon
+https://github.com/Everlastdg/FalconEYE
+https://github.com/gadievron/raptor/
