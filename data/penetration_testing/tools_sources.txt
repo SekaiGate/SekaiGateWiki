@@ -16,3 +16,6 @@ https://github.com/Ed1s0nZ/CyberStrikeAI
 https://github.com/ASCIT31/Dark-Moon
 https://github.com/Everlastdg/FalconEYE
 https://github.com/gadievron/raptor/
+https://github.com/KeygraphHQ/shannon
+https://github.com/yohannesgk/blacksmith
+https://github.com/bugbasesecurity/pentest-copilot
