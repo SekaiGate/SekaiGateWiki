@@ -24,8 +24,8 @@ Lista narzędzi zapewniających prywatność w ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-07-08 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2019 | 👁️ 60 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 721 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2026-07-08 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2020 | 👁️ 60 | [privacy](https://github.com/tensorflow/privacy) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 722 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1243 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
@@ -46,7 +46,7 @@ Lista narzędzi zapewniających najlepsze praktyki ML SecOps:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-07-13 | model-transparency | Supply chain security for ML | ⭐ 240 | 👁️ 10 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2026-07-26 | model-transparency | Supply chain security for ML | ⭐ 240 | 👁️ 10 | [model-transparency](https://github.com/sigstore/model-transparency) |
 | 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 41 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
 | 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 125 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->

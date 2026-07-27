@@ -14,9 +14,9 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | N/A | AgentSecEval | No description | ⭐ 0 | 👁️ 0 | [AgentSecEval](https://github.com/openguardrails/AgentSecEval) |
-| 2026-07-24 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4310 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
-| 2026-07-23 | guardrails | Adding guardrails to large language models. | ⭐ 7205 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2026-07-23 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6788 | 👁️ 42 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-07-24 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4314 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
+| 2026-07-23 | guardrails | Adding guardrails to large language models. | ⭐ 7208 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
+| 2026-07-23 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6796 | 👁️ 42 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
 | 2026-07-08 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 3195 | 👁️ 28 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2026-05-05 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 164 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
 | 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2541 | 👁️ 36 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
