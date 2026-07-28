@@ -13,9 +13,9 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-07-22 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 2821 | 👁️ 13 | [agent-scan](https://github.com/snyk/agent-scan) |
-| 2026-07-21 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 991 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
-| 2026-07-18 | inspector | Visual testing tool for MCP servers | ⭐ 10482 | 👁️ 64 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-07-22 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 2824 | 👁️ 13 | [agent-scan](https://github.com/snyk/agent-scan) |
+| 2026-07-21 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 992 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-07-18 | inspector | Visual testing tool for MCP servers | ⭐ 10497 | 👁️ 64 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-07-14 | mcpserver-audit | mcpserver-audit: Helps you check if MCP servers are safe before using them. Examines servers for security problems, supports publishing findings in audit-db and vulnerability-db. Part of the Model Context Protocol Security initiative, a Cloud Security Alliance project. | ⭐ 21 | 👁️ 1 | [mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) |
 | 2026-06-23 | ramparts | mcp & skill scanner that scans any mcp server or skills for indirect attack vectors and security or configuration vulnerabilities | ⭐ 96 | 👁️ 1 | [ramparts](https://github.com/highflame-ai/ramparts) |
 | 2026-05-12 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 152 | 👁️ 4 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
