@@ -57,8 +57,8 @@ Lista narzędzi do różnych działań związanych z ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-07-16 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5087 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
-| 2026-06-12 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1266 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
+| 2026-08-14 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1266 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
+| 2026-07-16 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5088 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 322 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 
