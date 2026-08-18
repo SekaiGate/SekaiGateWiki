@@ -13,12 +13,12 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony dużych modeli języ
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-08-16 | openguardrails | The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors. | ⭐ 27 | 👁️ 0 | [openguardrails](https://github.com/openguardrails/openguardrails) |
-| 2026-08-14 | guardrails | Adding guardrails to large language models. | ⭐ 7290 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
-| 2026-08-14 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4355 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
-| 2026-08-13 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6963 | 👁️ 42 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-08-18 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4356 | 👁️ 67 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
+| 2026-08-17 | openguardrails | The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors. | ⭐ 27 | 👁️ 0 | [openguardrails](https://github.com/openguardrails/openguardrails) |
+| 2026-08-17 | guardrails | Adding guardrails to large language models. | ⭐ 7295 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
+| 2026-08-17 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 6967 | 👁️ 42 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
 | 2026-08-10 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 168 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
-| 2026-07-08 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 3201 | 👁️ 29 | [llm-guard](https://github.com/protectai/llm-guard) |
+| 2026-07-08 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 3202 | 👁️ 29 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2547 | 👁️ 36 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
 | 2025-03-22 | llm-defense | An easy-to-use Python framework to defend against jailbreak prompts. | ⭐ 21 | 👁️ 1 | [llm-defense](https://github.com/theshi-1128/llm-defense) |
 | 2024-11-22 | langkit | 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀 | ⭐ 994 | 👁️ 15 | [langkit](https://github.com/whylabs/langkit) |
