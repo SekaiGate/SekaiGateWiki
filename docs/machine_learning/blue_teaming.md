@@ -24,7 +24,7 @@ A comprehensive list of tools to ensure privacy in MLs:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-08-26 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2027 | 👁️ 61 | [privacy](https://github.com/tensorflow/privacy) |
+| 2026-08-26 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2030 | 👁️ 61 | [privacy](https://github.com/tensorflow/privacy) |
 | 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 724 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1242 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
