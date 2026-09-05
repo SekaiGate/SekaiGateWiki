@@ -46,7 +46,7 @@ A comprehensive list of tools to ensure ML SecOps best practises:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-08-31 | model-transparency | Supply chain security for ML | ⭐ 244 | 👁️ 9 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2026-09-04 | model-transparency | Supply chain security for ML | ⭐ 244 | 👁️ 9 | [model-transparency](https://github.com/sigstore/model-transparency) |
 | 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 41 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
 | 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 125 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
@@ -57,7 +57,7 @@ A list of tools for dirrefent activities related to ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-08-24 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5089 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-08-24 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5090 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2026-08-14 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1266 | 👁️ 61 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 322 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
