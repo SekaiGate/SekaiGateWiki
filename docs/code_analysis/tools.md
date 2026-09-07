@@ -6,8 +6,8 @@
 <!-- BEGIN_DATA_CODE_ANALYSIS_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
+| 2026-09-06 | kodus-ai | AI Code Review with Full Control Over Model Choice and Costs. | ⭐ 1356 | 👁️ 7 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
 | 2026-09-05 | metis | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 858 | 👁️ 6 | [metis](https://github.com/arm/metis) |
-| 2026-09-05 | kodus-ai | AI Code Review with Full Control Over Model Choice and Costs. | ⭐ 1353 | 👁️ 8 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
 | 2026-09-05 | Gito | An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. | ⭐ 432 | 👁️ 8 | [Gito](https://github.com/Nayjest/Gito) |
 | 2026-08-31 | buttercup | Buttercup finds and patches software vulnerabilities | ⭐ 1695 | 👁️ 23 | [buttercup](https://github.com/trailofbits/buttercup) |
 | 2026-08-17 | codescan | CodeScanAI is an open source tool that utilizes powerful AI models (OpenAI, Gemini, and even self-hosted servers) to scan your codebase for possible security vulnerabilities. | ⭐ 66 | 👁️ 2 | [codescan](https://github.com/codescan-ai/codescan) |
