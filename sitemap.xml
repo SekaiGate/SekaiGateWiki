@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/certificates/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/certificates/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/certificates/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/communities/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/communities/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/communities/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/end2end/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/end2end/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/end2end/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/frameworks/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/frameworks/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/organizations/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/organizations/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/organizations/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/agentic/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/agentic/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/agentic/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/agents/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/agents/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/agents/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/ai_incidents/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/ai_incidents/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/ai_incidents/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/know_exploit_cves/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/know_exploit_cves/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/know_exploit_cves/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/code_analysis/tools/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/code_analysis/tools/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/code_analysis/tools/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/large_language_model/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/large_language_model/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/large_language_model/training_resources/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/training_resources/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/training_resources/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/machine_learning/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/machine_learning/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/machine_learning/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/machine_learning/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/training_resources/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/training_resources/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/training_resources/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/penetration_testing/tools/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/penetration_testing/tools/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/penetration_testing/tools/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/regulations/aiassurance/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/aiassurance/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/aiassurance/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/regulations/eu_ai_act/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/eu_ai_act/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/eu_ai_act/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/regulations/iso/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/iso/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/iso/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/secure_ai_implementation/microsoft/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/secure_ai_implementation/microsoft/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/secure_ai_implementation/microsoft/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/certificates/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/certificates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/certificates/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/communities/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/communities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/communities/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/end2end/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/end2end/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/end2end/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/frameworks/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/frameworks/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/organizations/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/organizations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/organizations/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/agentic/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/agentic/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/agentic/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/agents/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/agents/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/agents/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/ai_incidents/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/ai_incidents/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/ai_incidents/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/know_exploit_cves/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/ai_security_intelligence/know_exploit_cves/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/ai_security_intelligence/know_exploit_cves/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/code_analysis/tools/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/code_analysis/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/code_analysis/tools/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/training_resources/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/large_language_model/training_resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/large_language_model/training_resources/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/machine_learning/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/machine_learning/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/machine_learning/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/training_resources/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/model_context_protocol/training_resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/model_context_protocol/training_resources/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/blue_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/blue_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/blue_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/red_teaming/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/natural_language_processing/red_teaming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/natural_language_processing/red_teaming/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/penetration_testing/tools/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/penetration_testing/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/penetration_testing/tools/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/regulations/aiassurance/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/aiassurance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/aiassurance/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/regulations/eu_ai_act/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/eu_ai_act/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/eu_ai_act/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/regulations/iso/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/regulations/iso/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/regulations/iso/"/>
+    </url>
+    <url>
+        <loc>https://sekaigate.github.io/SekaiGateWiki/pl/secure_ai_implementation/microsoft/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://sekaigate.github.io/SekaiGateWiki/pl/secure_ai_implementation/microsoft/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sekaigate.github.io/SekaiGateWiki/secure_ai_implementation/microsoft/"/>
+    </url>
+</urlset>
