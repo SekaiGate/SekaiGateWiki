@@ -13,9 +13,9 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony serwerów Model Cont
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-09-21 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3078 | 👁️ 13 | [agent-scan](https://github.com/snyk/agent-scan) |
-| 2026-09-19 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 1074 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
-| 2026-09-16 | inspector | Visual testing tool for MCP servers | ⭐ 10918 | 👁️ 70 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-09-22 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3080 | 👁️ 13 | [agent-scan](https://github.com/snyk/agent-scan) |
+| 2026-09-19 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 1075 | 👁️ 12 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-09-16 | inspector | Visual testing tool for MCP servers | ⭐ 10930 | 👁️ 70 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-09-04 | mcp-guard | Security scanner for MCP servers. Every finding carries its evidence, including the server's actual response bytes. | ⭐ 12 | 👁️ 0 | [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) |
 | 2026-08-21 | ramparts | MCP & SKILL scanner that scans any mcp server or skills for indirect attack vectors and security or configuration vulnerabilities. Aligned with OWASP SKILL Top 10 and OWASP MCP Top 10 threats & vulnerabilities.  | ⭐ 96 | 👁️ 1 | [ramparts](https://github.com/highflame-ai/ramparts) |
 | 2026-08-18 | mcp-audit | See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance. | ⭐ 159 | 👁️ 4 | [mcp-audit](https://github.com/apisec-inc/mcp-audit) |
@@ -36,5 +36,5 @@ Znajdziesz tu narzędzia, zasoby i uwagi dotyczące ochrony serwerów Model Cont
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-03-12 | mcp-server-security-standard | MCP Server Security Standard (MSSS): an open, testable security control standard for certifying MCP servers, with levels, evidence requirements, and reporting schemas. | ⭐ 74 | 👁️ 5 | [mcp-server-security-standard](https://github.com/mcp-security-standard/mcp-server-security-standard) |
-| 2025-10-23 | MCP-Checklists | No description | ⭐ 196 | 👁️ 4 | [MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists) |
-| 2025-04-28 | MCP-Security-Checklist | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | ⭐ 834 | 👁️ 9 | [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) |
+| 2025-10-23 | MCP-Checklists | No description | ⭐ 197 | 👁️ 4 | [MCP-Checklists](https://github.com/MCP-Manager/MCP-Checklists) |
+| 2025-04-28 | MCP-Security-Checklist | A comprehensive security checklist for MCP-based AI tools. Built by SlowMist to safeguard LLM plugin ecosystems. | ⭐ 833 | 👁️ 9 | [MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) |
