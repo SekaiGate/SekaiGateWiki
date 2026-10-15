@@ -12,10 +12,10 @@ You can find here tools, resource, notes for protect Large Language Models (LLMs
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
-| 2026-10-13 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 7289 | 👁️ 45 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
-| 2026-10-12 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4432 | 👁️ 66 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
-| 2026-09-25 | openguardrails | The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors. | ⭐ 55 | 👁️ 0 | [openguardrails](https://github.com/openguardrails/openguardrails) |
-| 2026-08-26 | guardrails | Adding guardrails to large language models. | ⭐ 7515 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
+| 2026-10-14 | Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | ⭐ 7299 | 👁️ 45 | [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) |
+| 2026-10-12 | PurpleLlama | Set of tools to assess and improve LLM security. | ⭐ 4431 | 👁️ 66 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) |
+| 2026-09-25 | openguardrails | The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors. | ⭐ 57 | 👁️ 0 | [openguardrails](https://github.com/openguardrails/openguardrails) |
+| 2026-08-26 | guardrails | Adding guardrails to large language models. | ⭐ 7521 | 👁️ 41 | [guardrails](https://github.com/guardrails-ai/guardrails) |
 | 2026-08-26 | granite-guardian | The Granite Guardian models are designed to detect risks in prompts and responses. | ⭐ 185 | 👁️ 9 | [granite-guardian](https://github.com/ibm-granite/granite-guardian) |
 | 2026-07-08 | llm-guard | The Security Toolkit for LLM Interactions | ⭐ 3217 | 👁️ 30 | [llm-guard](https://github.com/protectai/llm-guard) |
 | 2025-12-11 | alibi-detect | Algorithms for outlier, adversarial and drift detection | ⭐ 2548 | 👁️ 36 | [alibi-detect](https://github.com/SeldonIO/alibi-detect) |
@@ -52,7 +52,7 @@ A comprehensive list of tools to ensure privacy in LLM:
 | Date | Repo | Description | Stars | Watchers | Link |
 |------|------|-------------|-------|----------|------|
 | 2026-03-25 | LangBiTe | A Bias Tester framework for LLMs | ⭐ 26 | 👁️ 3 | [LangBiTe](https://github.com/SOM-Research/LangBiTe) |
-| 2024-08-12 | anonLLM | anonLLM: Anonymize Personally Identifiable Information (PII) for Large Language Model APIs | ⭐ 79 | 👁️ 1 | [anonLLM](https://github.com/fsndzomga/anonLLM) |
+| 2024-08-12 | anonLLM | anonLLM: Anonymize Personally Identifiable Information (PII) for Large Language Model APIs | ⭐ 80 | 👁️ 1 | [anonLLM](https://github.com/fsndzomga/anonLLM) |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_BLUE_TEAMING_PRIVACY_SOURCES -->
 
 ---
