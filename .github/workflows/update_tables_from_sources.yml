@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
-
+          
       - name: Process docs and update tables
         env:
           TOKEN: ${{ secrets.GH_TOKEN }}
@@ -63,34 +63,34 @@ jobs:
                       "https://api.github.com/repos/$OWNER/$NAME/commits?per_page=1" \
                       | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
 
-              CONTRIB_RESPONSE=$(curl -s -i -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1")
-              LINK_HEADER=$(echo "$CONTRIB_RESPONSE" | grep -i '^Link:')
-              
-              CONTRIB_REGEX='page=([0-9]+)[^>]*>;[[:space:]]*rel="last"'
-      
-              if [[ "$LINK_HEADER" =~ $CONTRIB_REGEX ]]; then
-                  CONTRIBUTORS="${BASH_REMATCH[1]}"
-              elif echo "$CONTRIB_RESPONSE" | grep -q '"login"'; then
-                  CONTRIBUTORS=1
+                CONTRIB_RESPONSE=$(curl -s -i -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1")
+                LINK_HEADER=$(echo "$CONTRIB_RESPONSE" | grep -i '^Link:')
+                
+                CONTRIB_REGEX='page=([0-9]+)[^>]*>;[[:space:]]*rel="last"'
+        
+                if [[ "$LINK_HEADER" =~ $CONTRIB_REGEX ]]; then
+                    CONTRIBUTORS="${BASH_REMATCH[1]}"
+                elif echo "$CONTRIB_RESPONSE" | grep -q '"login"'; then
+                    CONTRIBUTORS=1
+                else
+                    CONTRIBUTORS=0
+                fi
+                 
+                LINK="${repo%.git}"
+                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
               else
-                  CONTRIBUTORS=0
+                echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
               fi
-               
-              LINK="${repo%.git}"
-              echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
-            else
-              echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
-            fi
-            sleep 1
-          done
-      
-          echo "| Date | Repo | Description | Stars | Watchers | Contributors | Link |" > "$output_file"
-          echo "|------|------|-------------|-------|----------|--------------|------|" >> "$output_file"
-          sort -r "$tmp" | while IFS='|' read -r d n s w c desc link; do
-            echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | 👥 $c | [$n]($link) |" >> "$output_file"
-          done
-          rm "$tmp"
-        }
+              sleep 1
+            done
+            
+            echo "| Date | Repo | Description | Stars | Watchers | Contributors | Link |" > "$output_file"
+            echo "|------|------|-------------|-------|----------|--------------|------|" >> "$output_file"
+            sort -r "$tmp" | while IFS='|' read -r d n s w c desc link; do
+              echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | 👥 $c | [$n]($link) |" >> "$output_file"
+            done
+            rm "$tmp"
+          }
 
           ################################################
           # BUILD TAG → SOURCE FILE MAP
