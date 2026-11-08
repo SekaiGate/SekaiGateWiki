@@ -11,9 +11,9 @@ Narzędzia ofensywane do testowania bezpieczeństwa NLP:
 <!-- BEGIN_DATA_NATURAL_LANGUAGE_PROCESSING_RED_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2026-08-15 | TextAttack |  | ⭐ 3482 | 👁️ 34 | 👥  | [TextAttack]() |
-| 2022-04-19 | OpenAttack |  | ⭐ 781 | 👁️ 16 | 👥  | [OpenAttack]() |
-| 2021-12-13 | TextFooler |  | ⭐ 531 | 👁️ 11 | 👥  | [TextFooler]() |
+| 2026-08-15 | TextAttack | 3482 | ⭐ 34 | 👁️ 61 | 👥 TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/ | [TextAttack]() |
+| 2022-04-19 | OpenAttack | 781 | ⭐ 16 | 👁️ 12 | 👥 An Open-Source Package for Textual Adversarial Attack. | [OpenAttack]() |
+| 2021-12-13 | TextFooler | 531 | ⭐ 11 | 👁️ 3 | 👥 A Model for Natural Language Attack on Text Classification and Inference | [TextFooler]() |
 <!-- END_DATA_NATURAL_LANGUAGE_PROCESSING_RED_TEAMING_TOOLS_SOURCES -->
 
 ---

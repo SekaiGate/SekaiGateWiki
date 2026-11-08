@@ -13,9 +13,9 @@ You can find here tools, payloads, notes for testing the security boundaries of 
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| N/A | Decepticon | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
-| 2026-11-08 | promptfoo |  | ⭐ 26963 | 👁️ 75 | 👥  | [promptfoo]() |
-| 2026-11-06 | agent-scan |  | ⭐ 3224 | 👁️ 12 | 👥  | [agent-scan]() |
+| N/A | Decepticon | 0 | ⭐ 0 | 👁️ 0 | 👥 No description | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
+| 2026-11-08 | promptfoo | 26964 | ⭐ 75 | 👁️ 421 | 👥 Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | [promptfoo]() |
+| 2026-11-06 | agent-scan | 3224 | ⭐ 12 | 👁️ 24 | 👥 Security scanner for AI agents, MCP servers and agent skills. | [agent-scan]() |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 
 ---

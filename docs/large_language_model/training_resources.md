@@ -18,7 +18,7 @@
 <!-- BEGIN_DATA_LARGE_LANGUAGE_MODEL_TRAINING_RESOURCES_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2025-06-25 | damn-vulnerable-llm-agent |  | ⭐ 544 | 👁️ 5 | 👥  | [damn-vulnerable-llm-agent]() |
-| 2024-09-10 | local-llm-ctf |  | ⭐ 20 | 👁️ 0 | 👥  | [local-llm-ctf]() |
-| 2024-08-22 | ai-goat |  | ⭐ 376 | 👁️ 9 | 👥  | [ai-goat]() |
+| 2025-06-25 | damn-vulnerable-llm-agent | 544 | ⭐ 5 | 👁️ 3 | 👥 No description | [damn-vulnerable-llm-agent]() |
+| 2024-09-10 | local-llm-ctf | 20 | ⭐ 0 | 👁️ 1 | 👥 A small go harness that uses Ollama to orchestrate LLMs in a restricted process flow | [local-llm-ctf]() |
+| 2024-08-22 | ai-goat | 376 | ⭐ 9 | 👁️ 2 | 👥 Learn AI security through a series of vulnerable LLM CTF challenges. No sign ups, no cloud fees, run everything locally on your system. | [ai-goat]() |
 <!-- END_DATA_LARGE_LANGUAGE_MODEL_TRAINING_RESOURCES_SOURCES -->
