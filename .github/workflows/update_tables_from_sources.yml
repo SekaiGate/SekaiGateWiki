@@ -65,7 +65,6 @@ jobs:
 
                 CONTRIB_RESPONSE=$(curl -s -i -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1")
                 LINK_HEADER=$(echo "$CONTRIB_RESPONSE" | grep -i '^Link:')
-                
                 CONTRIB_REGEX='page=([0-9]+)[^>]*>;[[:space:]]*rel="last"'
         
                 if [[ "$LINK_HEADER" =~ $CONTRIB_REGEX ]]; then
@@ -77,7 +76,11 @@ jobs:
                 fi
                  
                 LINK="${repo%.git}"
-                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
+                
+                # Zabezpieczenie opisu przed zepsuciem pliku tymczasowego (zamiana separatora '|' na spację, usunięcie nowlinijek)
+                CLEAN_DESC=$(echo "$DESC" | tr '|' '-' | tr '\r\n' ' ')
+        
+                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$CLEAN_DESC|$LINK" >> "$tmp"
               else
                 echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
               fi
