@@ -7,14 +7,12 @@ https://github.com/IPA-Lab/HackingBuddyGPT
 https://github.com/GreyDGL/PentestGPT
 https://github.com/BerylliumSec/nebula
 https://github.com/0x4m4/hexstrike-ai
-https://github.com/FuzzingLabs/mcp-security-hub
 https://github.com/ghostsecurity/reaper
 https://github.com/vxcontrol/pentagi
 https://github.com/Tencent/AI-Infra-Guard
 https://github.com/0xSteph/pentest-ai-agents
-https://github.com/Ed1s0nZ/CyberStrikeAI
+https://github.com/AIPentest/CyberStrikeAI
 https://github.com/ASCIT31/Dark-Moon
-https://github.com/Everlastdg/FalconEYE
 https://github.com/gadievron/raptor/
 https://github.com/KeygraphHQ/shannon
 https://github.com/yohannesgk/blacksmith
