@@ -17,3 +17,15 @@ https://github.com/gadievron/raptor/
 https://github.com/KeygraphHQ/shannon
 https://github.com/yohannesgk/blacksmith
 https://github.com/bugbasesecurity/pentest-copilot
+https://github.com/oritera/Cairn
+https://github.com/zakirkun/deep-eye
+https://github.com/0xSteph/pentest-ai
+https://github.com/elder-plinius/T3MP3ST
+https://github.com/Vasco0x4/AIDA
+https://github.com/aielte-research/HackSynth
+https://github.com/KHenryAegis/VulnBot
+https://github.com/NoDataFound/hackGPT
+https://github.com/BuFuuu/shiftgrid
+https://github.com/BugTraceAI/BugTraceAI-CLI
+https://github.com/nullc0d30/HunterX
+https://github.com/samugit83/redamon
