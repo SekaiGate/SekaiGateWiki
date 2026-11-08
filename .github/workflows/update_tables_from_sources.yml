@@ -64,9 +64,9 @@ jobs:
                       | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
 
                 CONTRIB_RESPONSE=$(curl -s -H "Accept: application/json" "https://github.com/$OWNER/$NAME/_sidebar")
-                CONTRIBUTORS=$(echo "$RESPONSE" | jq -r '.contributors.contributorCount')
+                CONTRIBUTORS=$(echo "$CONTRIB_RESPONSE" | jq -r '.contributors.contributorCount')
                 
-                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$CLEAN_DESC|$LINK" >> "$tmp"
+                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
               else
                 echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
               fi
@@ -75,7 +75,7 @@ jobs:
             
             echo "| Date | Repo | Description | Stars | Watchers | Contributors | Link |" > "$output_file"
             echo "|------|------|-------------|-------|----------|--------------|------|" >> "$output_file"
-            sort -r "$tmp" | while IFS='|' read -r d n s w c desc link; do
+            sort -r "$tmp" | while IFS='|' read -r d n desc s w c link; do
               echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | 👥 $c | [$n]($link) |" >> "$output_file"
             done
             rm "$tmp"
