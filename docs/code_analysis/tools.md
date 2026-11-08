@@ -9,7 +9,7 @@
 | 2026-11-07 | obot | Complete AI Governance Platform from Obot AI | ⭐ 1174 | 👁️ 9 | [obot](https://github.com/obot-platform/obot) |
 | 2026-11-07 | kodus-ai | Open source, self-hosted AI code review. Bring your own LLM. | ⭐ 1575 | 👁️ 8 | [kodus-ai](https://github.com/kodustech/kodus-ai) |
 | 2026-11-07 | iris | A neurosymbolic framework for vulnerability detection in code | ⭐ 447 | 👁️ 8 | [iris](https://github.com/iris-sast/iris) |
-| 2026-11-07 | codex-security | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security | ⭐ 11328 | 👁️ 36 | [codex-security](https://github.com/openai/codex-security) |
+| 2026-11-07 | codex-security | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security | ⭐ 11329 | 👁️ 36 | [codex-security](https://github.com/openai/codex-security) |
 | 2026-11-06 | deepsec | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents | ⭐ 8374 | 👁️ 22 | [deepsec](https://github.com/vercel-labs/deepsec) |
 | 2026-11-05 | metis | Metis is an open-source, AI-driven tool for deep security code review | ⭐ 891 | 👁️ 6 | [metis](https://github.com/arm/metis) |
 | 2026-11-05 | datadog-saist | AI-native SAST | ⭐ 109 | 👁️ 1 | [datadog-saist](https://github.com/dataDog/datadog-saist) |
