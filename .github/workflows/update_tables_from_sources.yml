@@ -62,10 +62,19 @@ jobs:
                 DATE=$(curl -s -H "Authorization: token $TOKEN" \
                       "https://api.github.com/repos/$OWNER/$NAME/commits?per_page=1" \
                       | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
-                      
-                CONTRIB_JSON=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors")
-                CONTRIBUTORS=$(echo "$CONTRIB_JSON" | grep -o '"login"' | wc -l)
-            
+
+
+                CONTRIB_HEADERS=$(curl -sI -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1")
+                LINK_HEADER=$(echo "$CONTRIB_HEADERS" | grep -i '^Link:')
+    
+                if [[ "$LINK_HEADER" =~ page=([0-9]+)[^>]*>;\ rel=\"last\" ]]; then
+                    CONTRIBUTORS="${BASH_REMATCH[1]}"
+                elif echo "$CONTRIB_HEADERS" | grep -q "200 OK"; then
+                    CONTRIBUTORS=1
+                else
+                    CONTRIBUTORS=0
+                fi
+             
                 LINK="${repo%.git}"
                 echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
               else
@@ -73,8 +82,7 @@ jobs:
               fi
               sleep 1
             done
-
-
+    
             echo "| Date | Repo | Description | Stars | Watchers | Contributors | Link |" > "$output_file"
             echo "|------|------|-------------|-------|----------|--------------|------|" >> "$output_file"
             sort -r "$tmp" | while IFS='|' read -r d n s w c desc link; do
