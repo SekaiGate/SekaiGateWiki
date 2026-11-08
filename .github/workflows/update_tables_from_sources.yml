@@ -62,17 +62,10 @@ jobs:
                 DATE=$(curl -s -H "Authorization: token $TOKEN" \
                       "https://api.github.com/repos/$OWNER/$NAME/commits?per_page=1" \
                       | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
-                
-                CONTRIB_RESP=$(curl -sI -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1&anon=true")
-                LAST_PAGE_LINK=$(echo "$CONTRIB_RESP" | grep -i '^link:' | grep -oE 'page=[0-9]+>& rel="last"' | grep -oE '[0-9]+')
-                
-                if [ -z "$LAST_PAGE_LINK" ]; then
-                  CONTRIB_BODY=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1&anon=true")
-                  CONTRIBUTORS=$(echo "$CONTRIB_BODY" | jq 'if type=="array" then length else 0 end')
-                else
-                  CONTRIBUTORS=$LAST_PAGE_LINK
-                fi
-
+                      
+                CONTRIB_JSON=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors")
+                CONTRIBUTORS=$(echo "$CONTRIB_JSON" | grep -o '"login"' | wc -l)
+            
                 LINK="${repo%.git}"
                 echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
               else
