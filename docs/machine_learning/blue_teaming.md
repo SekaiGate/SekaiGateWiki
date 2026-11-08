@@ -11,10 +11,10 @@ This repository is dedicated to blue teamers, AI developers, security researcher
 A comprehensive list of tools to safeguard, monitor, and harden your ML against attacks:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 793 | 👁️ 14 | [modelscan](https://github.com/protectai/modelscan) |
-| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 793 | 👁️ 14 | 👥 22 | [modelscan](https://github.com/protectai/modelscan) |
+| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | 👥 8 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---
@@ -22,11 +22,11 @@ A comprehensive list of tools to safeguard, monitor, and harden your ML against 
 A comprehensive list of tools to ensure privacy in MLs:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| 2026-11-06 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2038 | 👁️ 61 | [privacy](https://github.com/tensorflow/privacy) |
-| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 729 | 👁️ 16 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
-| 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1242 | 👁️ 49 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| 2026-11-06 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2038 | 👁️ 61 | 👥 30 | [privacy](https://github.com/tensorflow/privacy) |
+| 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 729 | 👁️ 16 | 👥 13 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
+| 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1242 | 👁️ 49 | 👥 25 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 ---
 
@@ -34,9 +34,9 @@ A comprehensive list of tools to ensure privacy in MLs:
 A comprehensive list of tools to ensure safely storing MLs:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| N/A | safetensors | No description | ⭐ 0 | 👁️ 0 | [safetensors](https://github.com/huggingface/safetensors) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| N/A | safetensors | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [safetensors](https://github.com/huggingface/safetensors) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_STORAGE_TOOLS_SOURCES -->
 ---
 
@@ -44,22 +44,22 @@ A comprehensive list of tools to ensure safely storing MLs:
 A comprehensive list of tools to ensure ML SecOps best practises:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| 2026-10-26 | model-transparency | Supply chain security for ML | ⭐ 249 | 👁️ 10 | [model-transparency](https://github.com/sigstore/model-transparency) |
-| 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 42 | 👁️ 3 | [sml-security](https://github.com/EthicalML/sml-security/) |
-| 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 125 | 👁️ 7 | [fml-security](https://github.com/EthicalML/fml-security) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| 2026-10-26 | model-transparency | Supply chain security for ML | ⭐ 249 | 👁️ 10 | 👥 30 | [model-transparency](https://github.com/sigstore/model-transparency) |
+| 2024-11-13 | sml-security | MLOps Cookiecutter Template: A Base Project Structure for Secure Production ML Engineering | ⭐ 42 | 👁️ 3 | 👥 2 | [sml-security](https://github.com/EthicalML/sml-security/) |
+| 2022-06-06 | fml-security | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment. | ⭐ 125 | 👁️ 7 | 👥 1 | [fml-security](https://github.com/EthicalML/fml-security) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_SECOPS_TOOLS_SOURCES -->
 
 ### Other tools for ML
 A list of tools for dirrefent activities related to ML:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| 2026-10-20 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5100 | 👁️ 79 | [AugLy](https://github.com/facebookresearch/AugLy) |
-| 2026-08-14 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1270 | 👁️ 60 | [model-analysis](https://github.com/tensorflow/model-analysis) |
-| 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 321 | 👁️ 27 | [audit-ai](https://github.com/pymetrics/audit-ai) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| 2026-10-20 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5100 | 👁️ 79 | 👥 30 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-08-14 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1270 | 👁️ 60 | 👥 30 | [model-analysis](https://github.com/tensorflow/model-analysis) |
+| 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 321 | 👁️ 27 | 👥 5 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 
 ---

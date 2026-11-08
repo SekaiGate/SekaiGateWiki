@@ -8,17 +8,17 @@ This page is built for red teamers, AI researchers, and enthusiats of the ofensi
 Essential tools for red teaming MLs:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_RED_TEAMING_TOOLS_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| N/A | mlsploit | No description | ⭐ 0 | 👁️ 0 | [mlsploit](https://github.com/mlsploit/) |
-| 2026-11-04 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 6304 | 👁️ 102 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
-| 2026-09-15 | Model-Inversion-Attack-ToolBox | A comprehensive toolbox for model inversion attacks and defenses, which is easy to get started. | ⭐ 198 | 👁️ 2 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) |
-| 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 57 | 👁️ 1 | [vger](https://github.com/JosephTLucas/vger) |
-| 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2982 | 👁️ 41 | [foolbox](https://github.com/bethgelab/foolbox) |
-| 2023-01-31 | cleverhans | An adversarial example library for constructing attacks, building defenses, and benchmarking both | ⭐ 6459 | 👁️ 182 | [cleverhans](https://github.com/cleverhans-lab/cleverhans) |
-| 2022-08-08 | AdvBox | Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding. | ⭐ 1406 | 👁️ 49 | [AdvBox](https://github.com/advboxes/AdvBox) |
-| 2022-05-29 | advertorch | A Toolbox for Adversarial Robustness Research | ⭐ 1363 | 👁️ 24 | [advertorch](https://github.com/BorealisAI/advertorch) |
-| 2022-05-17 | deep-pwning | Metasploit for machine learning. | ⭐ 570 | 👁️ 59 | [deep-pwning](https://github.com/cchio/deep-pwning) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| N/A | mlsploit | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [mlsploit](https://github.com/mlsploit/) |
+| 2026-11-04 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 6304 | 👁️ 102 | 👥 30 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
+| 2026-09-15 | Model-Inversion-Attack-ToolBox | A comprehensive toolbox for model inversion attacks and defenses, which is easy to get started. | ⭐ 198 | 👁️ 2 | 👥 4 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) |
+| 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 57 | 👁️ 1 | 👥 1 | [vger](https://github.com/JosephTLucas/vger) |
+| 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2982 | 👁️ 41 | 👥 30 | [foolbox](https://github.com/bethgelab/foolbox) |
+| 2023-01-31 | cleverhans | An adversarial example library for constructing attacks, building defenses, and benchmarking both | ⭐ 6459 | 👁️ 182 | 👥 30 | [cleverhans](https://github.com/cleverhans-lab/cleverhans) |
+| 2022-08-08 | AdvBox | Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.  Advbox give a command line tool to generate adversarial examples with Zero-Coding. | ⭐ 1406 | 👁️ 49 | 👥 12 | [AdvBox](https://github.com/advboxes/AdvBox) |
+| 2022-05-29 | advertorch | A Toolbox for Adversarial Robustness Research | ⭐ 1363 | 👁️ 24 | 👥 16 | [advertorch](https://github.com/BorealisAI/advertorch) |
+| 2022-05-17 | deep-pwning | Metasploit for machine learning. | ⭐ 570 | 👁️ 59 | 👥 4 | [deep-pwning](https://github.com/cchio/deep-pwning) |
 <!-- END_DATA_MACHINE_LEARNING_RED_TEAMING_TOOLS_SOURCES -->
 
 
@@ -26,9 +26,9 @@ Essential tools for red teaming MLs:
 Test your skills on purposely insecure MLs apps:
 
 <!-- BEGIN_DATA_MACHINE_LEARNING_RED_TEAMING_VULNERABLE_MACHINES_SOURCES -->
-| Date | Repo | Description | Stars | Watchers | Link |
-|------|------|-------------|-------|----------|------|
-| 2020-08-24 | adversarial_ml_ctf | This repository is a CTF challenge, showing a security flaw in most (all?) common artificial neural networks. They are vulnerable for adversarial images. | ⭐ 8 | 👁️ 1 | [adversarial_ml_ctf](https://github.com/arturmiller/adversarial_ml_ctf) |
+| Date | Repo | Description | Stars | Watchers | Contributors | Link |
+|------|------|-------------|-------|----------|--------------|------|
+| 2020-08-24 | adversarial_ml_ctf | This repository is a CTF challenge, showing a security flaw in most (all?) common artificial neural networks. They are vulnerable for adversarial images. | ⭐ 8 | 👁️ 1 | 👥 1 | [adversarial_ml_ctf](https://github.com/arturmiller/adversarial_ml_ctf) |
 <!-- END_DATA_MACHINE_LEARNING_RED_TEAMING_VULNERABLE_MACHINES_SOURCES -->
 
 ---
