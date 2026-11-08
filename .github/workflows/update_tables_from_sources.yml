@@ -58,21 +58,34 @@ jobs:
                 STARS=$(echo "$REPO_DATA" | jq -r '.stargazers_count')
                 WATCHERS=$(echo "$REPO_DATA" | jq -r '.subscribers_count')
                 DESC=$(echo "$REPO_DATA" | jq -r '.description // "No description"' | sed 's/|/\\|/g')
+                
                 DATE=$(curl -s -H "Authorization: token $TOKEN" \
                       "https://api.github.com/repos/$OWNER/$NAME/commits?per_page=1" \
                       | jq -r '.[0].commit.author.date' | cut -d'T' -f1)
+                
+                CONTRIB_RESP=$(curl -sI -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1&anon=true")
+                LAST_PAGE_LINK=$(echo "$CONTRIB_RESP" | grep -i '^link:' | grep -oE 'page=[0-9]+>& rel="last"' | grep -oE '[0-9]+')
+                
+                if [ -z "$LAST_PAGE_LINK" ]; then
+                  CONTRIB_BODY=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$NAME/contributors?per_page=1&anon=true")
+                  CONTRIBUTORS=$(echo "$CONTRIB_BODY" | jq 'if type=="array" then length else 0 end')
+                else
+                  CONTRIBUTORS=$LAST_PAGE_LINK
+                fi
+
                 LINK="${repo%.git}"
-                echo "$DATE|$NAME|$STARS|$WATCHERS|$DESC|$LINK" >> "$tmp"
+                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
               else
-                echo "N/A|$NAME|0|0|No description|${repo%.git}" >> "$tmp"
+                echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
               fi
               sleep 1
             done
 
-            echo "| Date | Repo | Description | Stars | Watchers | Link |" > "$output_file"
-            echo "|------|------|-------------|-------|----------|------|" >> "$output_file"
-            sort -r "$tmp" | while IFS='|' read -r d n s w desc link; do
-              echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | [$n]($link) |" >> "$output_file"
+
+            echo "| Date | Repo | Description | Stars | Watchers | Contributors | Link |" > "$output_file"
+            echo "|------|------|-------------|-------|----------|--------------|------|" >> "$output_file"
+            sort -r "$tmp" | while IFS='|' read -r d n s w c desc link; do
+              echo "| $d | $n | $desc | ⭐ $s | 👁️ $w | 👥 $c | [$n]($link) |" >> "$output_file"
             done
             rm "$tmp"
           }
