@@ -73,7 +73,6 @@ jobs:
               elif echo "$CONTRIB_RESPONSE" | grep -q '"login"'; then
                   CONTRIBUTORS=1
               else
-                  # Przypadek 3: Brak kontrybutorów (pusta tablica [] lub błąd)
                   CONTRIBUTORS=0
               fi
                
