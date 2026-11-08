@@ -65,10 +65,11 @@ jobs:
 
                 CONTRIB_RESPONSE=$(curl -s -H "Accept: application/json" "https://github.com/$OWNER/$NAME/_sidebar")
                 CONTRIBUTORS=$(echo "$CONTRIB_RESPONSE" | jq -r '.contributors.contributorCount')
+                LINK="${repo%.git}"
                 
-                echo "$DATE|$NAME|$STARS|$WATCHERS|$CONTRIBUTORS|$DESC|$LINK" >> "$tmp"
+                echo "$DATE|$NAME|$DESC|$STARS|$WATCHERS|$CONTRIBUTORS|$LINK" >> "$tmp"
               else
-                echo "N/A|$NAME|0|0|0|No description|${repo%.git}" >> "$tmp"
+                echo "N/A|$NAME|No description|0|0|0|${repo%.git}" >> "$tmp"
               fi
               sleep 1
             done
