@@ -4,6 +4,6 @@
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_TRAINING_RESOURCES_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2026-11-01 | damn-vulnerable-mcp-server | Damn Vulnerable MCP Server | ⭐ 1365 | 👁️ 12 | 👥 9 | [damn-vulnerable-mcp-server](https://github.com/harishsg993010/damn-vulnerable-mcp-server) |
-| 2025-10-07 | AI-Red-Teaming-Playground-Labs | AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure. | ⭐ 2124 | 👁️ 24 | 👥 7 | [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) |
+| 2026-11-01 | damn-vulnerable-mcp-server | Damn Vulnerable MCP Server | ⭐ 1367 | 👁️ 12 | 👥 9 | [damn-vulnerable-mcp-server](https://github.com/harishsg993010/damn-vulnerable-mcp-server) |
+| 2025-10-07 | AI-Red-Teaming-Playground-Labs | AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure. | ⭐ 2125 | 👁️ 24 | 👥 7 | [AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_TRAINING_RESOURCES_SOURCES -->
