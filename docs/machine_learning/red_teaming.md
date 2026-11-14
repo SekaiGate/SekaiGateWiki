@@ -11,7 +11,7 @@ Essential tools for red teaming MLs:
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
 | N/A | mlsploit | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [mlsploit](https://github.com/mlsploit/) |
-| 2026-11-09 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 6312 | 👁️ 102 | 👥 115 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
+| 2026-11-09 | adversarial-robustness-toolbox | Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams | ⭐ 6311 | 👁️ 102 | 👥 115 | [adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
 | 2026-09-15 | Model-Inversion-Attack-ToolBox | A comprehensive toolbox for model inversion attacks and defenses, which is easy to get started. | ⭐ 198 | 👁️ 2 | 👥 4 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) |
 | 2025-05-07 | vger | An interactive CLI application for interacting with authenticated Jupyter instances. | ⭐ 57 | 👁️ 1 | 👥 1 | [vger](https://github.com/JosephTLucas/vger) |
 | 2024-03-04 | foolbox | A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX | ⭐ 2983 | 👁️ 41 | 👥 32 | [foolbox](https://github.com/bethgelab/foolbox) |
