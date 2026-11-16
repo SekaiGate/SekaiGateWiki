@@ -13,7 +13,7 @@ Repozytoria z payloadami do wykorzystania podczas testów penetracyjnych:
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
 | N/A | Decepticon | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
-| 2026-11-15 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | ⭐ 27203 | 👁️ 77 | 👥 423 | [promptfoo](https://github.com/promptfoo/promptfoo) |
+| 2026-11-16 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | ⭐ 27265 | 👁️ 77 | 👥 423 | [promptfoo](https://github.com/promptfoo/promptfoo) |
 | 2026-11-13 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3242 | 👁️ 12 | 👥 24 | [agent-scan](https://github.com/snyk/agent-scan) |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 
