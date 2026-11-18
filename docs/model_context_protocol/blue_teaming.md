@@ -13,9 +13,9 @@ You can find here tools, resource, notes for protect Model Context Protocol serv
 <!-- BEGIN_DATA_MODEL_CONTEXT_PROTOCOL_BLUE_TEAMING_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2026-11-16 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 1119 | 👁️ 10 | 👥 37 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
-| 2026-11-16 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3247 | 👁️ 12 | 👥 24 | [agent-scan](https://github.com/snyk/agent-scan) |
-| 2026-11-12 | inspector | Deterministic testing tools for MCP servers | ⭐ 11311 | 👁️ 67 | 👥 140 | [inspector](https://github.com/modelcontextprotocol/inspector) |
+| 2026-11-17 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3254 | 👁️ 12 | 👥 26 | [agent-scan](https://github.com/snyk/agent-scan) |
+| 2026-11-16 | mcp-scanner | Scan MCP servers for potential threats & security findings. | ⭐ 1122 | 👁️ 10 | 👥 37 | [mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) |
+| 2026-11-12 | inspector | Deterministic testing tools for MCP servers | ⭐ 11322 | 👁️ 67 | 👥 140 | [inspector](https://github.com/modelcontextprotocol/inspector) |
 | 2026-11-10 | mcp-watch | A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations. | ⭐ 140 | 👁️ 1 | 👥 6 | [mcp-watch](https://github.com/kapilduraphe/mcp-watch) |
 | 2026-10-08 | ramparts | MCP & SKILL scanner that scans any mcp server or skills for indirect attack vectors and security or configuration vulnerabilities. Aligned with OWASP SKILL Top 10 and OWASP MCP Top 10 threats & vulnerabilities.  | ⭐ 99 | 👁️ 1 | 👥 12 | [ramparts](https://github.com/highflame-ai/ramparts) |
 | 2026-09-04 | mcp-guard | Security scanner for MCP servers. Every finding carries its evidence, including the server's actual response bytes. | ⭐ 12 | 👁️ 0 | 👥 1 | [mcp-guard](https://github.com/SaravanaGuhan/mcp-guard) |
