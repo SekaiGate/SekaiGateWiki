@@ -14,8 +14,8 @@ You can find here tools, payloads, notes for testing the security boundaries of 
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
 | N/A | Decepticon | No description | ⭐ 0 | 👁️ 0 | 👥 0 | [Decepticon](https://github.com/PurpleAILAB/Decepticon) |
-| 2026-11-24 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | ⭐ 27614 | 👁️ 81 | 👥 423 | [promptfoo](https://github.com/promptfoo/promptfoo) |
-| 2026-11-23 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3276 | 👁️ 13 | 👥 27 | [agent-scan](https://github.com/snyk/agent-scan) |
+| 2026-11-25 | promptfoo | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. | ⭐ 27658 | 👁️ 81 | 👥 423 | [promptfoo](https://github.com/promptfoo/promptfoo) |
+| 2026-11-23 | agent-scan | Security scanner for AI agents, MCP servers and agent skills. | ⭐ 3277 | 👁️ 13 | 👥 27 | [agent-scan](https://github.com/snyk/agent-scan) |
 <!-- END_DATA_MODEL_CONTEXT_PROTOCOL_RED_TEAMING_TOOLS_SOURCES -->
 
 ---
