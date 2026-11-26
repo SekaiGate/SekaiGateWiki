@@ -14,7 +14,7 @@ Lista narzędzi służących do ochrony, monitorowania i wzmacniania zabezpiecze
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
 | 2026-02-18 | modelscan | Protection against Model Serialization Attacks | ⭐ 801 | 👁️ 13 | 👥 24 | [modelscan](https://github.com/protectai/modelscan) |
-| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 201 | 👁️ 4 | 👥 8 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
+| 2025-03-24 | watchtower | AIShield Watchtower: Dive Deep into AI's Secrets! 🔍 Open-source tool by AIShield for AI model insights & vulnerability scans. Secure your AI supply chain today! ⚙️🛡️ | ⭐ 202 | 👁️ 4 | 👥 8 | [watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_TOOLS_SOURCES -->
 
 ---
@@ -24,7 +24,7 @@ Lista narzędzi zapewniających prywatność w ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2026-11-18 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2041 | 👁️ 60 | 👥 57 | [privacy](https://github.com/tensorflow/privacy) |
+| 2026-11-18 | privacy | Library for training machine learning models with privacy for training data | ⭐ 2042 | 👁️ 60 | 👥 57 | [privacy](https://github.com/tensorflow/privacy) |
 | 2025-04-26 | ml_privacy_meter | Privacy Meter: An open-source library to audit data privacy in statistical and machine learning algorithms. | ⭐ 729 | 👁️ 16 | 👥 13 | [ml_privacy_meter](https://github.com/privacytrustlab/ml_privacy_meter) |
 | 2024-09-25 | tf-encrypted | A Framework for Encrypted Machine Learning in TensorFlow | ⭐ 1240 | 👁️ 49 | 👥 25 | [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_PRIVACY_TOOLS_SOURCES -->
@@ -57,7 +57,7 @@ Lista narzędzi do różnych działań związanych z ML:
 <!-- BEGIN_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
 | Date | Repo | Description | Stars | Watchers | Contributors | Link |
 |------|------|-------------|-------|----------|--------------|------|
-| 2026-11-17 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5097 | 👁️ 79 | 👥 26 | [AugLy](https://github.com/facebookresearch/AugLy) |
+| 2026-11-17 | AugLy | A data augmentations library for audio, image, text, and video. | ⭐ 5098 | 👁️ 79 | 👥 26 | [AugLy](https://github.com/facebookresearch/AugLy) |
 | 2026-08-14 | model-analysis | Model analysis tools for TensorFlow | ⭐ 1271 | 👁️ 60 | 👥 57 | [model-analysis](https://github.com/tensorflow/model-analysis) |
 | 2020-07-17 | audit-ai | detect demographic differences in the output of machine learning models or other assessments | ⭐ 321 | 👁️ 27 | 👥 7 | [audit-ai](https://github.com/pymetrics/audit-ai) |
 <!-- END_DATA_MACHINE_LEARNING_BLUE_TEAMING_OTHER_TOOLS_SOURCES -->
